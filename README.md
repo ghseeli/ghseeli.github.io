@@ -1,2 +1,2 @@
 # ghseeli.github.io
-My personal website
+Source code for [my personal website](http://ghseeli.github.io)

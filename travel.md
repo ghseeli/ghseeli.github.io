@@ -4,6 +4,7 @@ title: Confrences, Workshops, etc.
 ---
 Conferences and Workshops Attended
 ===
+
 2018
 ----
 * [Combinatorics and beyond: the many facets of Sergey Fomin's mathematics](https://math.berkeley.edu/~williams/FominFest), November 8--11, 2018, University of Michigan

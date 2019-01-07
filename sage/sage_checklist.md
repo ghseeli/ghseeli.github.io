@@ -42,10 +42,10 @@ Sage documentation is compiled by [Sphynx](http://www.sphinx-doc.org/en/master/i
 1. (*Recommended*) Include a `.. SEELALSO:` block when relevant. You can reference other classes anywhere in your docstrings via the convention `:class:Foo`, other methods via `:meth:foo_bar`, and functions via `:func:foo_var`.
 1. (*Required, but a last order of business*) Sage requires that all lines in your source file are broken at 80 characters except in certain special cases. If you do not adhere to this convention in your posted code, someone will most certainly comment on your Trac ticket telling you to do so. However, I recommend to simply not take offense, safely backlog the comment, address all other outstanding issues, and save this cleaning up for last because it is annoying to constantly redo it.
 
-Adding to Trac
+Contributing code via Trac
 ---
 1. Make sure you have a Trac account / log into Trac with your GitHub account. Be sure to add your ssh-keys to the account.
-1. Create a new ticket for your addition.
+1. Create a new ticket for your addition, label the ticket as an enhancement, and put your real name in the Author section. 
 1. Make sure your changes are added on top of the current state of the `develop` branch for Sage.
 1. Push your code to a new branch with a descriptive name, and either with convention `u/username/ticket-num-and-short-desc` or `public/ticket-num-and-short-desc`. To accomplish this, you have two options. You may use the `git-trac` command and use the [Sage git-trac tutorial](https://doc.sagemath.org/html/en/developer/git_trac.html) or, if you are comfortable with git, you may use the [git the hard way tutuorial](https://doc.sagemath.org/html/en/developer/manual_git.html), which is my preferred method. 
 1. Make sure the branch is linked to your Trac ticket.

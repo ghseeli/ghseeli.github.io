@@ -65,7 +65,7 @@ Weird headaches/cornercases I have run into
 
 1. When adding a new file to the source code, make sure you add relevant `import` statements to the `all.py` file in the directory so that the important functions and classes are added to the namespace. 
 1. When adding a new file specifically to the `combinat` module, make sure to add a line to the `src/doc/en/reference/combinat/module_list.rst` file so the documentation is added to Sage.
-1.  There are some exceptions to this rule, as far as I can tell.
+1. As mentioned above, Sage requires that every line be no longer than 80 characters. There are some exceptions to this rule, as far as I can tell.
 
     - In codeblocks inside documentation, such as inside `EXAMPLES` and `TESTS` blocks, code seems to not limited to 80 characters.
     - I have seen that long strings in the Sage library, such as error statements, are often not forced to be line wrapped. I believe this happens because, although this functionality is possible, it disagrees with indentation structure. For example,

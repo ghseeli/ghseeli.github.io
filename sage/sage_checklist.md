@@ -1,3 +1,6 @@
+SageMath Development Checklist
+===
+
 When developing a new package for SageMath, it can feel daunting, especially because your code is subject to public review and needs to meet a myriad of standards. The definitive guide for these standards is the [official developer guide](https://doc.sagemath.org/html/en/developer/coding_basics.html). Another helpful resource is [the reviewer's checklist](https://doc.sagemath.org/html/en/developer/reviewer_checklist.html). You should always try to go ahead and do a review of your own review. You probably will not catch everything, but it is good to know what reviewers will be looking for!
 
 Most notably, SageMath packages are expected to adhere to general Python coding conventions as well as extra SageMath conventions. The Developer's Guide does a good job enumerating all of these, but I want to list a few key things developed by my former colleague [Matthew Lancellotti](http://matthewlancellotti.com/) when he was migrating code into SageMath. [Original source](https://github.com/MareoRaft/k_combinat_for_sage/issues/8)

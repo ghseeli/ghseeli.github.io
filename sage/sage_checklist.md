@@ -78,12 +78,12 @@ Weird headaches I have run into
     ValueError: oh no! You have triggered a very very very very very very very very long error!
     ```
 1. When meeting the 80 character line limit, you must make sure bulleted lists follow an indentation structure like so: 
-```
-INPUT:
 
-- ``directed`` -- (default: ``False``) whether to have the dual
-  equivalence graph be directed (where we have a directed edge
-  `S \to T` if `i` appears to the left of `i+1` in the
-  reading word of `T`; otherwise we have the directed edge
-  `T \to S`)
-```
+    INPUT:
+
+    - ``directed`` -- (default: ``False``) whether to have the dual
+      equivalence graph be directed (where we have a directed edge
+      `S \to T` if `i` appears to the left of `i+1` in the
+      reading word of `T`; otherwise we have the directed edge
+      `T \to S`)
+

@@ -1,3 +1,8 @@
+---
+layout: default
+title: SageMath Development Checklist
+---
+
 SageMath Development Checklist
 ===
 

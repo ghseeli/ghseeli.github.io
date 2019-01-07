@@ -6,9 +6,9 @@ title: SageMath Development Checklist
 SageMath Development Checklist
 ===
 
-When developing a new package for SageMath, it can feel daunting, especially because your code is subject to public review and needs to meet a myriad of standards. The definitive guide for these standards is the [official developer guide](https://doc.sagemath.org/html/en/developer/coding_basics.html). Another helpful resource is [the reviewer's checklist](https://doc.sagemath.org/html/en/developer/reviewer_checklist.html). You should always try to go ahead and do a review of your own review. You probably will not catch everything, but it is good to know what reviewers will be looking for!
+When developing a new package for SageMath, it can feel daunting, especially because your code is subject to public review and needs to meet a myriad of standards. The definitive guide for these standards is the [official developer guide](https://doc.sagemath.org/html/en/developer/coding_basics.html). Another helpful resource is [the reviewer's checklist](https://doc.sagemath.org/html/en/developer/reviewer_checklist.html). You should always try to go ahead and do a review of your own code. You probably will not catch everything, but it is good to know what reviewers will be looking for!
 
-Most notably, SageMath packages are expected to adhere to general Python coding conventions as well as extra SageMath conventions. The Developer's Guide does a good job enumerating all of these, but I want to list a few key things developed by my former colleague [Matthew Lancellotti](http://matthewlancellotti.com/) when he was migrating code into SageMath. [Original source](https://github.com/MareoRaft/k_combinat_for_sage/issues/8)
+Most notably, SageMath packages are expected to adhere to general Python coding conventions as well as extra SageMath conventions. The Developer's Guide does a good job enumerating all of these, but I want to list a few key things developed by my former colleague [Matthew Lancellotti](http://matthewlancellotti.com/) when he was migrating code into SageMath. [Original source](https://github.com/MareoRaft/k_combinat_for_sage/issues/8).
 
 Even as someone who has contributed multiple bits of Sage code, I can have a hard time keeping track of all these conventions. So, this list is primarily made for my reference but publicly available in case it might help you, too.
 
@@ -46,7 +46,8 @@ Adding to Trac
 ---
 1. Make sure you have a Trac account / log into Trac with your GitHub account. Be sure to add your ssh-keys to the account.
 1. Create a new ticket for your addition.
-1. Push your code to a new branch with a descriptive name, and either with convention `u/username/ticket-num-and-short-desc` or `public/ticket-num-and-short-desc`.
+1. Make sure your changes are added on top of the current state of the `develop` branch for Sage.
+1. Push your code to a new branch with a descriptive name, and either with convention `u/username/ticket-num-and-short-desc` or `public/ticket-num-and-short-desc`. To accomplish this, you have two options. You may use the `git-trac` command and use the [Sage git-trac tutorial](https://doc.sagemath.org/html/en/developer/git_trac.html) or, if you are comfortable with git, you may use the [git the hard way tutuorial](https://doc.sagemath.org/html/en/developer/manual_git.html), which is my preferred method. 
 1. Make sure the branch is linked to your Trac ticket.
 1. Change ticket status to "Needs Review" and CC potential reviewers or other people who may be interested. If you are modifying an existing file, then people who have worked on the file in the past may be a helpful place to start. 
 

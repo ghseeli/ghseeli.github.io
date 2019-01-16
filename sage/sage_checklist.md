@@ -16,7 +16,7 @@ Coding
 ---
 Sage is built on top of Python, so it is important to follow general Python best practices. In addition, Sage has its own best practices. Some of them to keep in mind are the following.
 
-1. (*Required*) Follow [PEP 8](https://www.python.org/dev/peps/pep-0008/) coding conventions. A handy tool to help you is [autopep8](https://pypi.org/project/autopep8/).
+1. (*Required*) Follow [PEP 8](https://www.python.org/dev/peps/pep-0008/) coding conventions. A handy tool to help you is [autopep8](https://pypi.org/project/autopep8/). Another good document on Python coding conventions, with some overlap, is [here](https://gist.github.com/sloria/7001839).
 1. (*Required*) When implementing new algebraic structures, look at these guides. [Implementing Algebraic Structures](https://doc.sagemath.org/html/en/thematic_tutorials/tutorial-implementing-algebraic-structures.html), [How to implement new algebraic structures in Sage](https://doc.sagemath.org/html/en/thematic_tutorials/coercion_and_categories.html). In particular, 
 
     - make sure you understand the "Parent" and "Element" design pattern in SageMath,
@@ -98,6 +98,17 @@ Weird headaches/cornercases I have run into
     Traceback (most recent call last):
       File "<stdin>", line 2, in <module>
     ValueError: oh no! You have triggered a very very very very very very very very long error!
+    ```
+    or 
+    ```
+    >>> error_msg = ("oh no! You have triggered a very very very very"
+    ... "very very very very long error!")
+    >>> if True:
+    ...     raise ValueError(error_msg)
+    ... 
+    Traceback (most recent call last):
+      File "<stdin>", line 2, in <module>
+    ValueError: oh no! You have triggered a very very very veryvery very very very long error!
     ```
 1. When meeting the 80 character line limit, you must make sure bulleted lists follow an indentation structure like so: 
 <pre><code>

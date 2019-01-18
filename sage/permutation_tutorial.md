@@ -2,7 +2,12 @@
 layout: default
 title: SageMath Permutation Tutorial
 ---
-
+<head>
+    <style>
+        li { background: #EEEEEE; }
+        li:nth-child(odd) { background: #CCCCCC; }
+    </style>
+</head>
 SageMath Permutation Tutorial
 ====
 

@@ -14,9 +14,7 @@ Using CoCalc
 1. Go to [https://cocalc.com/](https://cocalc.com/) and sign up for an account.
     <details>
         <summary> Image </summary>
-    
-        ![Create account button on CoCalc homepage](../img/cocalc-create-account-1.png)
-        
+        <img src="../img/cocalc-create-account-1.png" alt="Create account button on CoCalc homepage"/>
     </details>
 1. Once you log in, you will be presented with your "Projects" page. Click "Create New Project" and call it "Algebraic Combinatoric Class" or something else descriptive for yourself.
 ![CoCalc Projects Page](../img/cocalc-projects-2.png)

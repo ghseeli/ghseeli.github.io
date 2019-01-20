@@ -16,6 +16,7 @@ Using CoCalc
         <summary> Image </summary>
     
         ![Create account button on CoCalc homepage](../img/cocalc-create-account-1.png)
+        
     </details>
 1. Once you log in, you will be presented with your "Projects" page. Click "Create New Project" and call it "Algebraic Combinatoric Class" or something else descriptive for yourself.
 ![CoCalc Projects Page](../img/cocalc-projects-2.png)

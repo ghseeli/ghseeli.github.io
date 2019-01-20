@@ -60,3 +60,10 @@ Using CoCalc
     </details>
     
     - Follow the instructions to practice doing combinatorics with SageMath!
+
+Other Tutorials
+---
+If you find that you have extra time, you can look at any of these resources/tutorials that you find interesting.
+
+1. [How to use Sage to generate LaTeX code](https://cocalc.com/share/495b25fe-5784-4f66-94ea-ecb0da67fa42/Using-Sage-to-make_LaTeX.sagews?viewer=share)
+1. Any [Thematic Tutorial](https://doc.sagemath.org/html/en/thematic_tutorials/index.html) of SageMath you might find interesting!

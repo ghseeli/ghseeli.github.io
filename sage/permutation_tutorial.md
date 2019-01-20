@@ -6,7 +6,7 @@ title: SageMath Permutation Tutorial
 SageMath Permutation Tutorial
 ====
 
-[SageMath](https://www.sagemath.org/) is a free and open source computer algebra system. For this tutorial, we will use a website called [CoCalc](https://cocalc.com/) which allows you to use SageMath from your web browser.
+[SageMath](https://www.sagemath.org/) is a free and open source computer algebra system built on top of the [Python programming language](https://www.python.org/). For this tutorial, we will use a website called [CoCalc](https://cocalc.com/) which allows you to use SageMath from your web browser.
 
 Using CoCalc
 ----
@@ -39,7 +39,7 @@ Using CoCalc
         <summary> Image </summary>
         <img src="../img/cocalc-worksheet-5.png" alt="CoCalc worksheet"/>
     </details>
-1. You are now ready to go through the tutorial worksheet [here](https://cocalc.com/share/495b25fe-5784-4f66-94ea-ecb0da67fa42/permutations-tutorial-read-only.sagews?viewer=share)
+1. You are now ready to go through the Permutation Tutorial worksheet [here](https://cocalc.com/share/495b25fe-5784-4f66-94ea-ecb0da67fa42/permutations-tutorial-read-only.sagews?viewer=share)
     - Copy the worksheet into your CoCalc project by hitting "Open in Cocalc" on the top right.
     
     <details>

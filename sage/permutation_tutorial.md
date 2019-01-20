@@ -26,8 +26,10 @@ Using CoCalc
         <summary> Image </summary>
         <img src="../img/cocalc-files-3.png" alt="CoCalc Files Page"/>
     </details>
+    
     - Name it "test"
     - Select "Sage worksheet" for the type
+    
     <details>
         <summary> Image </summary>
         <img src="../img/cocalc-new-file-4.png" alt="CoCalc New Worksheet"/>

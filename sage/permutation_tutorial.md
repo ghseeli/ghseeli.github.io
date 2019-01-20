@@ -41,5 +41,22 @@ Using CoCalc
     </details>
 1. You are now ready to go through the tutorial worksheet [here](https://cocalc.com/share/495b25fe-5784-4f66-94ea-ecb0da67fa42/permutations-tutorial-read-only.sagews?viewer=share)
     - Copy the worksheet into your CoCalc project by hitting "Open in Cocalc" on the top right.
+    
+    <details>
+        <summary> Image </summary>
+        <img src="../img/cocalc-open-in-cocalc-6.png" alt="Open public sheet in Cocalc"/>
+    </details>
+    
     - Then, click on the little "Page" button below the "Files" button on the top left and select "Copy..."
+    
+    <details>
+        <summary> Image </summary>
+        <img src="../img/cocalc-file-menu-7.png" alt="File menu in Cocalc worksheet"/>
+    </details>
+    
+    <details>
+        <summary> Image 2</summary>
+        <img src="../img/cocalc-copy-8.png" alt="Copy button on file menu in Cocalc worksheet"/>
+    </details>
+    
     - Follow the instructions to practice doing combinatorics with SageMath!

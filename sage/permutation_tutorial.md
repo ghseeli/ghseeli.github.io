@@ -59,6 +59,8 @@ Using CoCalc
         <img src="../img/cocalc-copy-8.png" alt="Copy button on file menu in Cocalc worksheet"/>
     </details>
     
+    - In the "Copy" pane, set "In the project" to "Algebraic Combinatorics Class" or whatever you named your project. Leave the "Destination" field empty.
+    - Now, click "Projects" in the top left corner and navigate to your "Algebraic Combinatorics Class" project. The permutations-tutorial.sagews should now be in your files list. Open it!
     - Follow the instructions to practice doing combinatorics with SageMath!
 
 Other Tutorials

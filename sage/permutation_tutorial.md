@@ -34,7 +34,7 @@ Using CoCalc
         <summary> Image </summary>
         <img src="../img/cocalc-new-file-4.png" alt="CoCalc New Worksheet"/>
     </details>
-1. Now it should open the worksheet automatically with a single cell. Type "2+2" and then hit "Shift+Enter". It should output "4".
+1. Now it should open the worksheet automatically with a single cell. Type `2+2` and then hit "Shift+Enter". It should output `4`.
     <details>
         <summary> Image </summary>
         <img src="../img/cocalc-worksheet-5.png" alt="CoCalc worksheet"/>
@@ -60,7 +60,9 @@ Using CoCalc
     </details>
     
     - In the "Copy" pane, set "In the project" to "Algebraic Combinatorics Class" or whatever you named your project. Leave the "Destination" field empty.
-    - Now, click "Projects" in the top left corner and navigate to your "Algebraic Combinatorics Class" project. The permutations-tutorial.sagews should now be in your files list. Open it!
+    - Now, click "Projects" in the top left corner and navigate to your "Algebraic Combinatorics Class" project. The `permutations-tutorial.sagews` should now be in your files list. 
+    - Close "Algebraics Combinatorics Class - Seelinger" tab since you no longer need it.
+    - Open the `permutations-tutorial.sagews` by clicking on it.
     - Follow the instructions to practice doing combinatorics with SageMath!
 
 Other Tutorials

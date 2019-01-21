@@ -60,8 +60,20 @@ Using CoCalc
     </details>
     
     - In the "Copy" pane, set "In the project" to "Algebraic Combinatorics Class" or whatever you named your project. Leave the "Destination" field empty.
+    
+    <details>
+        <summary> Image </summary>
+        <img src="../img/cocalc-copy-project-9.png" alt="File menu in Cocalc worksheet"/>
+    </details>
+    
     - Now, click "Projects" in the top left corner and navigate to your "Algebraic Combinatorics Class" project. The `permutations-tutorial.sagews` should now be in your files list. 
     - Close "Algebraics Combinatorics Class - Seelinger" tab since you no longer need it.
+    
+    <details>
+        <summary> Image </summary>
+        <img src="../img/cocalc-close-public-project-10.png" alt="File menu in Cocalc worksheet"/>
+    </details>
+    
     - Open the `permutations-tutorial.sagews` by clicking on it.
     - Follow the instructions to practice doing combinatorics with SageMath!
 

@@ -2,8 +2,11 @@
 layout: default
 title: Confrences, Workshops, etc.
 ---
-Conferences and Workshops Attended
+Conferences and Workshops Attended or Planning to Attend
 ===
+2019
+----
+* [Triangle Lectures in Combinatorics](https://wp.math.ncsu.edu/tlc/), March 30, 2019, Wake Forest University
 
 2018
 ----
@@ -14,6 +17,7 @@ Conferences and Workshops Attended
 
 2015
 ----
+* INFORMS Annual Meeting, November 1--4, 2015, Philadelphia, PA
 * [AMS Central Fall Sectional Meeting](http://www.ams.org/meetings/sectional/2219_program.html), October 2--4, 2015, Loyola University Chicago
 * [Sage Days 65](http://gauss.math.luc.edu/sagedays/), June 8--June 12, 2015, Loyola University Chicago
 

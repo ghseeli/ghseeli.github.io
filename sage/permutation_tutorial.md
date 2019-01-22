@@ -67,7 +67,7 @@ Using CoCalc
     </details>
     
     - Now, click "Projects" in the top left corner and navigate to your "Algebraic Combinatorics Class" project. The `permutations-tutorial.sagews` should now be in your files list. 
-    - Close "Algebraics Combinatorics Class - Seelinger" tab since you no longer need it.
+    - Close "Algebraic Combinatorics Class - Seelinger" tab since you no longer need it.
     
     <details>
         <summary> Image </summary>

@@ -4,6 +4,7 @@ title: Confrences, Workshops, etc.
 ---
 Conferences and Workshops Attended or Planning to Attend
 ===
+
 2019
 ----
 * (tentative) [Hilbert schemes, categorification and combinatorics](https://www.math.ucdavis.edu/~egorskiy/FRGconf/), June 19--23, 2019, University of California, Davis 

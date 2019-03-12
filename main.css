@@ -42,6 +42,6 @@ ul.posts li {
     list-style: none;
 }
 
-div.all-posts > div:nth-of-type(odd){
+div.all-posts > div:nth-of-type(odd) {
   background: #F1F1EF;
 }

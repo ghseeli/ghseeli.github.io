@@ -6,8 +6,9 @@ title: George H. Seelinger's Blog
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li>{% if post.image != null %} {% if post.image-address != null %}<a href="{{ post.image-address | replace: '__SITE_URL__', site.url }}">{% else %}<a href="{{site.url }}{{ post.url }}">{% endif %}<img src="{{ post.image | replace: '__SITE_URL__', site.url }}" alt="{{ post.image-alt }}" title="{{ post.image-alt }}" style="{% if post.image-wide != true %}max-width:70%;{% else %}max-width:100%;{% endif %}{% if post.image-tall %}max-height:300px;{% endif %}height:auto;width:auto;"></a>
-		<span>{{ post.date | date_to_string }}</span> » <a href="{{ post.permalink }}" title="{{ post.title }}">{{ post.title }}</a>
+	    <li>{% if post.image != null %} {% if post.image-address != null %}<a href="{{ post.image-address | replace: '__SITE_URL__', site.url }}">{% else %}<a href="{{site.url }}{{ post.url }}">{% endif %}<img src="{{ post.image | replace: '__SITE_URL__', site.url }}" alt="{{ post.image-alt }}" title="{{ post.image-alt }}" style="max-width:100%;max-height:300px;height:auto;width:auto;"></a>
+		{% endif %}
+		   <span>{{ post.date | date_to_string }}</span> » <a href="{{ post.permalink }}" title="{{ post.title }}">{{ post.title }}</a>
 		<p>{{ post.excerpt }}</p>
 	    </li>
 	  {% endfor %}

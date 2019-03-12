@@ -43,5 +43,5 @@ ul.posts li {
 }
 
 div.all-posts > div:nth-of-type(odd) {
-  background: #F1F1EF;
+  background: #e0e0e0;
 }

@@ -42,6 +42,6 @@ ul.posts li {
     list-style: none;
 }
 
-.post_preview div:nth-of-type(2n+1){
-  background-color: #F1F1EF;
+div.posts > div:nth-of-type(odd){
+  background: #F1F1EF;
 }

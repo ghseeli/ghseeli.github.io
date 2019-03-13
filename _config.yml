@@ -1,2 +1,5 @@
 name: George H. Seelinger
 markdown: kramdown
+theme: minima
+header_pages:
+  - index.html

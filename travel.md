@@ -8,7 +8,7 @@ Conferences and Workshops Attended or Planning to Attend
 2019
 ----
 * (tentative) [Hilbert schemes, categorification and combinatorics](https://www.math.ucdavis.edu/~egorskiy/FRGconf/), June 19--23, 2019, University of California, Davis 
-* (tentative) [Garsiafest](https://sites.google.com/view/garsiafest/), June 17--20, 2019, The Scripps Seaside Forum, San Diego, CA
+* [Garsiafest](https://sites.google.com/view/garsiafest/), June 17--20, 2019, The Scripps Seaside Forum, San Diego, CA
 * [Algebra, Geometry and Combinatorics Day (AlGeCom)](https://sites.google.com/site/algecomday/algecom-xvii), May 25, 2019, Loyola University Chicago, Chicago, IL
 * [Mid-Atlantic Algebra, Geometry, and Combinatorics (MAAGC) Workshop](http://www.maagc.info/philadelphia-2019), May 3--4, 2019, Drexel University, Philadelphia, PA
 * [Triangle Lectures in Combinatorics](https://wp.math.ncsu.edu/tlc/), March 30, 2019, Wake Forest University, Winston-Salem, NC

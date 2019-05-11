@@ -7,7 +7,7 @@ categories: presentation
 
 This last weekend, I had an opportunity to attend and present a poster at the 2019 Mid-Atlantic Algebra, Geometry, and Combinatorics (MAAGC) conference in Philadelphia. The poster is about one of the projects I am currently working on to describe "\\(K\\)-theoretic \\(k\\)-Schur functions" with a raising operator formula which is a specialization of what we are currently calling "K-theoretic Catalan functions" since they generalize the description of Catalan functions that Blasiak, Morse, Pun, and Summers used to prove the Schur positivity of \\(k\\)-Schur functions.
 
-A PDF of my poster is available (https://ghseeli.github.io/grad-school-writings/presentations/maagc-2019-poster.pdf)[here], but I also want to provide an overview for those who could not attend in person and listen to my oral summry.
+A PDF of my poster is available [here](https://ghseeli.github.io/grad-school-writings/presentations/maagc-2019-poster.pdf), but I also want to provide an overview for those who could not attend in person and listen to my oral summry.
 
 It is well-known that Schur functions give explicit representatives for the Schubert classes in the cohomology of the Grassmannian. It is also known that Grothendieck polynomials play a similar role for the \\(K\\)-theory classes of the Grassmannian. However, this project concerns the symmetric functions that play a similar role for the *affine* Grassmannian. The (co)homology representatives in this context are the dual \\(k\\)-Schur functions and the \\(k\\)-Schur functions. 
 

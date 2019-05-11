@@ -3,6 +3,7 @@ layout: post
 title: "MAAGC Poster: K-Theoretic Catalans"
 date: 2019-05-10
 categories: presentation
+use_math: true
 ---
 
 This last weekend, I had an opportunity to attend and present a poster at the 2019 Mid-Atlantic Algebra, Geometry, and Combinatorics (MAAGC) conference in Philadelphia. The poster is about one of the projects I am currently working on to describe "\\(K\\)-theoretic \\(k\\)-Schur functions" with a raising operator formula which is a specialization of what we are currently calling "K-theoretic Catalan functions" since they generalize the description of Catalan functions that Blasiak, Morse, Pun, and Summers used to prove the Schur positivity of \\(k\\)-Schur functions.

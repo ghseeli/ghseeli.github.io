@@ -8,7 +8,7 @@ image-alt: A snapshot of my MAAGC 2019 poster
 use_math: true
 ---
 
-This last weekend, I had an opportunity to attend and present a poster at the 2019 Mid-Atlantic Algebra, Geometry, and Combinatorics (MAAGC) conference in Philadelphia. The poster is about one of the projects I am currently working on to describe "\\(K\\)-theoretic \\(k\\)-Schur functions" with a raising operator formula which is a specialization of what we are currently calling "K-theoretic Catalan functions" since they generalize the description of Catalan functions that Blasiak, Morse, Pun, and Summers used to prove the Schur positivity of \\(k\\)-Schur functions.
+This last weekend, I had an opportunity to attend and present a poster at the 2019 Mid-Atlantic Algebra, Geometry, and Combinatorics (MAAGC) conference in Philadelphia. The poster is about one of the projects I am currently working on to describe "\\(K\\)-theoretic \\(k\\)-Schur functions" with a raising operator formula which is a specialization of what we are currently calling "\\(K\\)-theoretic Catalan functions" since they generalize the description of Catalan functions that Blasiak, Morse, Pun, and Summers used to prove the Schur positivity of \\(k\\)-Schur functions.
 
 A PDF of my poster is available [here](https://ghseeli.github.io/grad-school-writings/presentations/maagc-2019-poster.pdf), but I also want to provide an overview for those who could not attend in person and listen to my oral summry.
 

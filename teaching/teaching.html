@@ -1,0 +1,16 @@
+---
+layout: default
+title: Teaching
+---
+
+<h1>{{ page.title }}</h1>
+	<div class="all-posts">
+	  {% for post in site.posts %}
+    {% if post.categories contains "teaching" %}
+	  <div class="post-preview">
+		<span>{{post.semester}}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+		<!--<p>{{ post.excerpt | markdownify }}</p>-->
+	  </div>
+    {% endif %}
+	  {% endfor %}
+</div>

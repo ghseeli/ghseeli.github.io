@@ -26,4 +26,17 @@ exclude: true
 		<p>I volunteer as a <a href="http://indorgs.virginia.edu/MathAmbassadors/">UVA Math Ambassador</a> to do math outreach in Charlottesville area grade schools.</p>
 		<p>I sometimes make contributions to the open source mathematical software <a href="https://www.sagemath.org/">SageMath</a>, the most notable of which was overhauling the <a href="https://doc.sagemath.org/html/en/reference/algebras/sage/combinat/diagram_algebras.html">diagram algebras package</a> with my collaborators as a result of my work on Brauer algebras. You can see all the <a href="https://trac.sagemath.org/search?q=ghseeli&noquickjump=1&ticket=on">tickets I have contributed to</a> the <a href="https://trac.sagemath.org/">SageMath trac server</a>. If you are interested in contributing code to Sage, check out <a href="sage/sage_checklist">my development checklist</a> and feel free to contact me if you have questions!</p>
 		<p>Previously, I have been a mentor for the UVA Math Department <a href="http://math.virginia.edu/drp/">Directed Reading Program (DRP)</a>. The DRP pairs undergraduates interested in learning math outside the standard curriculum with graduate student mentors who guide them in reading some interesting and different mathematics.</p>
+	<h2>What's New</h2>
+		<div class="all-posts">
+	  	{% for post in site.posts %}
+		{% if post.categories contains "news" %}
+		  <div class="post-preview">
+			{% if post.image != null %}<center>{% if post.image-address != null %}<a href="{{ post.image-address | replace: '__SITE_URL__', site.url }}">{% else %}<a href="{{site.url }}{{ post.url }}">{% endif %}<img src="{{ post.image | replace: '__SITE_URL__', site.url }}" alt="{{ post.image-alt }}" title="{{ post.image-alt }}" style="max-width:100%;max-height:300px;height:auto;width:auto;"></a></center> <br />
+			{% endif %}
+			<span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+			<p>{{ post.excerpt | markdownify }}</p>
+		  </div>
+	 	{% endif %}
+	        {% endfor %}
+</div>
 </div><!-- /.blurb -->

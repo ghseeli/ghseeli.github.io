@@ -32,7 +32,7 @@ exclude: true
 	  	{% for post in site.posts %}
 		{% if post.categories contains "news" %}
 		  <div class="post-preview">
-			<span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+			<span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>{% if post.pdf-url %} &bull; (<a href="{{ post.pdf-url }}" target="_blank">PDF</a>) {% endif %}
 	                {% unless post.no-abstract %}<details>
                         <summary>
            		 Read More

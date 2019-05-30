@@ -2,7 +2,7 @@
 layout: post
 title: "MAAGC Poster: K-Theoretic Catalans"
 date: 2019-05-10
-categories: presentation
+categories: presentation news
 image: __SITE_URL__/img/maagc-poster-snapshot.png
 image-alt: A snapshot of my MAAGC 2019 poster
 use_math: true

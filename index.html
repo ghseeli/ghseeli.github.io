@@ -37,7 +37,7 @@ exclude: true
                         <summary>
            		 Read More
 	                </summary>
-			{% if post.image != null %} {% if post.image-address != null %}<a href="{{ post.image-address }}">{% else %}<a href="{{site.url }}{{ post.url }}">{% endif %}<img src="{{ post.image }}" alt="{{ post.image-alt }}" title="{{ post.image-alt }}" style="max-width:100%;max-height:500px;height:auto;width:auto;" class="mb-3 mt-3"></a>
+			{% if post.image != null %} {% if post.image-address != null %}<a href="{{ post.image-address }}">{% else %}<a href="{{site.url }}{{ post.url }}">{% endif %}<img src="{{ post.image | replace: '__SITE_URL__', site.url}}" alt="{{ post.image-alt }}" title="{{ post.image-alt }}" style="max-width:100%;max-height:500px;height:auto;width:auto;" class="mb-3 mt-3"></a>
 			{% endif %}
 			<br />
 			{{ post.excerpt | markdownify }}

@@ -7,7 +7,7 @@ Conferences and Workshops Attended or Planning to Attend
 
 2020
 ----
-* [AMS Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2273_program.html), March 13-15, 2020, University of Virginia, Charlottesville, VA
+* [AMS Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2273_program.html), March 13--15, 2020, University of Virginia, Charlottesville, VA
 
 2019
 ----

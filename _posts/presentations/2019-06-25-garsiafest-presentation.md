@@ -11,6 +11,8 @@ pdf-url: https://ghseeli.github.io/grad-school-writings/presentations/garsiafest
 
 This past week I had the opportunity to give my first public research presentation as a graduate student at Adriano Garsia's 90th birthday conference, [Garsiafest](https://sites.google.com/view/garsiafest/), in San Diego at the Scripps Seaside Forum. My presentation mainly expanded on the information from my [MAAGC Poster](https://ghseeli.github.io/presentation/news/2019/05/10/maagc-poster.html), but now one of the main conjectures is a theorem! You can look at the slides [here](https://ghseeli.github.io/grad-school-writings/presentations/garsiafest-lightning-talk.pdf). Eventually, they will also post a video of my talk on the conference website. It was truly an honor to present my work to so many people in my area and I look forward to presenting more work in the future.
 
+![Me giving my lightning talk](__SITE_URL__/img/me-presenting-at-garsiafest.jpg)
+
 What is a Lightning Talk?
 ---
 

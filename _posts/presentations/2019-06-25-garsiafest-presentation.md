@@ -27,7 +27,7 @@ Some known examples of raising operators in Schubert classes are
 
 1. Schur functions given by the Jacobi-Trudi identity, \\(s_\lambda(x) = \prod_{i < j} (1-R_{ij}) h_\lambda\\);
 1. \\(k\\)-Schur functions given by a Catalan formula, \\(s_\lambda^{(k)}(x;1) = \prod_{(i,j \in \Delta^+ \setminus \Delta^{(k)}(\lambda))} (1-R_{ij}) h_\lambda\\), which give the homology Schubert representatives for the "affine Grassmannian";
-1. dual Grothendieck polynomials, \\(g_\lambda(x) = \prod_{i < j} (1-R_{ij}) Kh_\lambda\\) where \\(Kh_m^{(r)} = \sum_{i=0}^m \binom{r+i-1}{i} h_{m-i}\\) and \\(Kh_\lambda = Kh_{\lambda_1}^{(0)} Kh_{\lambda_2}^{(1)} \cdots Kh_{\lambda_\ell}^{\ell-1}\\).
+1. dual Grothendieck polynomials, \\(g_\lambda(x) = \prod_{i < j} (1-R_{ij}) Kh_\lambda\\) where \\(Kh_m^{(r)} = \sum_{i=0}^m \binom{r+i-1}{i} h_{m-i}\\) and \\(Kh_\lambda = Kh_{\lambda_1}^{(0)} Kh_{\lambda_2}^{(1)} \cdots Kh_{\lambda_\ell}^{(\ell-1)}\\).
 
 Recently, we have also proven a formula for the "dual *affine* Grothendieck polynomials", or sometimes called \\(K\\)-\\(k\\)-Schur functions, \\(g_\lambda^{(k)}(x)\\). These polynomials represent the "\\(K\\)-homology Schubert classes" of the affine Grassmannian. We have shown they are of the form \\(g_\lambda^{(k)} = \prod_{(i,j) \in \Delta^{(k+1)}(\lambda)}(1-L_j)\prod_{(i,j) \in \Delta^+ \setminus \Delta^{(k)}(\lambda)}(1-R_{ij}) Kh_\lambda\\), which looks a lot like a hybrid of the dual Grothendieck polynomials and the \\(k\\)-Schur functions with the extra ingredient of the lowering operators.
 

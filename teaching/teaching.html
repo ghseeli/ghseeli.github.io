@@ -10,7 +10,12 @@ title: Teaching
 {% for post in site.posts %}
     {% if post.categories contains "teaching" %}
 	  <div class="post-preview">
-		<span>{{post.semester}}</span> » {% unless post.no-page %}<a href="{{site.url}}{{post.url}}">{% endunless %}{{post.title}}{% unless post.no-page %}</a>{% endunless %}
+		<span>{{post.semester}}</span> » {% unless post.no-page %}<a href="{{site.url}}{{post.url}}">{% endunless %}
+		  {{post.title}}
+		  {% unless post.no-page %}</a>{% endunless %} 
+		  {% if post.image != null %} 
+		  &bull; (<a href="{post.syllabus}">Syllabus</a>) 
+		  {% endif %}
 		<!--<p>{{ post.excerpt | markdownify }}</p>-->
 	  </div>
     {% endif %}

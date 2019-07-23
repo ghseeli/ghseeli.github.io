@@ -1,4 +1,4 @@
-		---
+---
 layout: post
 title: "Sage Developer"
 date: 2019-07-23

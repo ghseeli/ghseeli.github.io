@@ -7,6 +7,8 @@ Conferences and Workshops Attended or Planning to Attend
 
 2020
 ----
+* (tentative) [International Conference on Formal Power Series and Algebraic Combinatorics (FPSAC)](https://fpsac2020.math.biu.ac.il/), July 13--17, 2020, University in Ramat Gan, Israel
+* (tentative) [Open Problems in Algebraic Combinatorics](http://www-users.math.umn.edu/~shopkins/OPAC/opac.html#), May 18--22, 2020, University of Minnesota, Minneapolis, MN
 * [Mid-Atlantic Algebra, Geometry, and Combinatorics (MAAGC) Workshop](http://www.maagc.info/virginia-2020), March 13--15, 2020, University of Virginia, Charlottesville, VA
 * [AMS Spring Southeastern Sectional Meeting](https://www.ams.org/meetings/sectional/2273_program.html), March 13--15, 2020, University of Virginia, Charlottesville, VA
 

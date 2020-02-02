@@ -22,9 +22,15 @@ I think one cannot understate the importance of these presentations, despite the
 
 I would try to be flexible with how I let students present, often letting students present in pairs or as an entire group, as well as providing affirmation that their solution was reasonable or correct if they asked for it. However, I was firm that presentations had to happen and I had students present in almost every class where I gave a worksheet. Finally, at the end of every class, electronic copies of the worksheet and its answer key would be posted online for students to study on their own any of the problems that were not presented in class.
 
+![An excerpt from a class-prep assignment](__SITE_URL__/img/webassign-screenshot.png)
+*An excerpt from a class-prep assignment.*
+
 Reflections and Discussion Section
 ---
 At the end of every week, students would be asked to complete online reflections in which they reflected on what they had learned, what they were still confused about, and how their groupwork was going. I would read students responses and found them helpful for gauging how students were learning material and feeling about the course. There would then be a "fourth hour" discussion section that operated more traditionally. During this time, I would try to recap material learned during the week that students had asked questions about in their reflections, as well as answer any questions raised in the classroom. This was also the time period when I would give a quiz. Many students expressed to me (via the reflections) that they found this meeting essential to their learning since it gave them an additional opportunity to reinforce that week's material. One challenging aspect of the course for the students is that the quiz would be on topics covered that week, although the quizzes accounted for a small part of their overall grade and students were offered an optional take-home quiz they could complete over the weekend to bolster their in-class quiz scores.
+
+![An example reflection prompt](__SITE_URL__/img/reflection-example.png)
+*An example reflection prompt.*
 
 The Importance of Groupwork and Changing Groups Frequently
 ---

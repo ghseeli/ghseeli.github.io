@@ -50,6 +50,9 @@ Syllabus
 ---
 Because there were so many course components, I found it important to have a well-explained syllabus. As mentioned above, the material we were required to put on our syllabus took up 6 single spaced pages. However, after reading a blog post on the AMS PhD + Epsilon on [Creating a Motivational (Math) Syllabus](https://blogs.ams.org/phdplus/2019/07/08/create-a-motivational-math-syllabus/) by Alexander Diaz-Lopez, I decided to not be afraid of long syllabi. Instead, I decided to expand the syllabus by adding section/subsection headers and a table of contents, along with adding some tables and graphics where I thought they might be helpful. Of course, I have no empirical way of knowing if this really helped my students or not, but it made it easier for me to refer to my own syllabus and to help answer common student questions. Finally, since I knew the course components were difficult to keep track of, I was always happy to revisit and reanswer student questions about course logistics.
 
+*A table added to my syllabus to summarize weekly tasks*
+![A table added to my syllabus to summarize weekly tasks](https://ghseeli.github.io/img/syllabus-table-example.png)
+
 Flipped versus Lecture
 ---
 Of course, the big question is whether or not the flipped model leads to better learning outcomes than lecture courses or not. However, since this is not meant to be an abstract teaching philosophy, I will leave that question to math education researchers. Instead, I will point out the differences in my experience as an instructor.

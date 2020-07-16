@@ -34,7 +34,7 @@ use_math: true
     {% if post.categories contains "presentation" %}
 	<div class="post-preview">
         <b><a href="{{site.url}}{{post.url}}">{{post.title}}</a></b> ({{post.date | date: '%Y'}}) {% if post.pdf-url != null %} &bull; <a href="{{ post.pdf-url }}" target="_blank">PDF</a> {% endif %}
-        <! -- {% unless post.no-abstract %}<details>
+        <!-- {% unless post.no-abstract %}<details>
           <summary>
             Read More
           </summary>

@@ -1,0 +1,64 @@
+---
+layout: default
+title: CV
+use_math: true
+---
+
+<h1>Papers and Preprints</h1>
+<div class="all-posts">
+{% for post in site.posts %}
+    {% if post.categories contains "paper" %}
+	<div class="post-preview">
+        {% if post.coauthors %}(with {% for coa in post.coauthors %}{% if coa.noweb != true %}<a href="{{coa.web}}">{%endif%}{{coa.name}}{% if coa.noweb != true %}</a>{%endif%}{% unless forloop.last %}, {% endunless %}{% endfor %}){% endif %}
+        <b><a href="{{site.url}}{{post.url}}">{{post.title}}</a></b> ({{post.date | date: '%Y'}}) &bull;
+        {% if post.arXiv %}<a href="https://arxiv.org/abs/{{post.arXiv | split: ' ' | first}}" target="_blank">arXiv:{{post.arXiv}}</a>{% endif %}		
+        <!-- {% unless post.no-abstract %}<details>
+          <summary>
+            Read More
+          </summary>
+          <br />
+            {{ post.content | markdownify }}
+            {% if post.image != null %} {% if post.image-address != null %}<a href="{{ post.image-address }}">{% else %}<a href="{{site.url }}{{ post.url }}">{% endif %}<img src="{{ post.image }}" alt="{{ post.image-alt }}" title="{{ post.image-alt }}" style="max-width:100%;max-height:500px;height:auto;width:auto;" class="mb-3 mt-3"></a>
+            {% endif %}
+        </details>
+	{% endunless %} -->
+	</div>
+    {% endif %}
+{% endfor %}		
+</div>
+<h1>Presentations</h1>	
+<div class="all-posts">
+{% for post in site.posts %}
+    {% if post.categories contains "presentation" %}
+	<div class="post-preview">
+        <b><a href="{{site.url}}{{post.url}}">{{post.title}}</a></b> ({{post.date | date: '%Y'}}) {% if post.pdf-url != null %} &bull; <a href="{{ post.pdf-url }}" target="_blank">PDF</a> {% endif %}
+        <! -- {% unless post.no-abstract %}<details>
+          <summary>
+            Read More
+          </summary>
+          <br />
+            {{ post.excerpt | markdownify }}
+            {% if post.image != null %} {% if post.image-address != null %}<a href="{{ post.image-address }}">{% else %}<a href="{{ site.url }}{{ post.url }}">{% endif %}<img src="{{ post.image }}" alt="{{ post.image-alt }}" title="{{ post.image-alt }}" style="max-width:100%;max-height:500px;height:auto;width:auto;"></a>
+            {% endif %}
+     	</details>{% endunless %} -->
+	</div>
+    {% endif %}
+{% endfor %}		
+</div>
+
+<h2>Teaching</h2>
+<div class="all-posts">
+{% for post in site.posts %}
+    {% if post.categories contains "teaching" %}
+	  <div class="post-preview">
+		<span>{{post.semester}}</span> » {% unless post.no-page %}<a href="{{site.url}}{{post.url}}">{% endunless %}
+		  {{post.title}}
+		  {% unless post.no-page %}</a>{% endunless %} 
+		  {% if post.syllabus != null %} 
+		  &bull; (<a href="{{post.syllabus}}">Syllabus</a>) 
+		  {% endif %}
+		<!--<p>{{ post.excerpt | markdownify }}</p>-->
+	  </div>
+    {% endif %}
+{% endfor %}
+</div>

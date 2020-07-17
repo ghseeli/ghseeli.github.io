@@ -10,6 +10,7 @@ arXiv: 1606.08900 [math.RT]
 comments: false
 categories: paper research
 published: true
+journal: L'Enseignment Mathematique
 show-date: false
 ---
 

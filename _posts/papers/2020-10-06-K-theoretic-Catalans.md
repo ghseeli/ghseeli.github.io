@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \\(K\\)-theoretic Catalan Functions
+title: K-theoretic Catalan Functions
 coauthors: 
   - name: Jonah Blasiak
     web: https://www.math.drexel.edu/~jblasiak/

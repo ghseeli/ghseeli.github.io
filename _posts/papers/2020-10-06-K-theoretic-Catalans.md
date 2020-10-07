@@ -8,7 +8,7 @@ coauthors:
     web: https://morsej123.github.io/
 arXiv: 2010.01759 [math.CO]
 comments: false
-categories: paper research news
+categories: paper research
 use_math: true
 published: true
 journal: 

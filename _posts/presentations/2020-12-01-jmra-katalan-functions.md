@@ -3,8 +3,8 @@ layout: post
 title: "JMRA: K-theoretic Catalan functions"
 date: 2020-12-01
 categories: news presentation
-image: 
-image-alt:
+image: __SITE_URL__/img/jmra.png
+image-alt: A screenshot of the presentation
 use_math: true
 pdf-url: https://ghseeli.github.io/grad-school-writings/presentations/jmra-k-theoretic-catalan-functions.pdf
 video-url: https://www.youtube.com/watch?v=5L0tYCH7-gw&feature=emb_title

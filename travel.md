@@ -5,6 +5,10 @@ title: Confrences, Workshops, etc.
 Conferences, Seminars, and Workshops Attended or Planning to Attend
 ===
 
+2021
+----
+* [ICERM Introductory Workshop: Combinatorial Algebraic Geometry](https://icerm.brown.edu/programs/sp-s21/w1/), February 1--5, 2021, ICERM (virtual)
+
 2020
 ----
 * ~~[International Conference on Formal Power Series and Algebraic Combinatorics (FPSAC)](https://fpsac2020.math.biu.ac.il/), July 13--17, 2020, University in Ramat Gan, Israel~~ Cancelled due to public health concerns; contributed talks to occur virtually and physical meeting rescheduled for July 2021.

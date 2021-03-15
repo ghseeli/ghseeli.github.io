@@ -7,6 +7,8 @@ Conferences, Seminars, and Workshops Attended or Planning to Attend
 
 2021
 ----
+* [ICERM Geometry and Combinatorics from Root Systems](https://icerm.brown.edu/programs/sp-s21/w3/), Mar 22--26, 2021, ICERM (virtual)
+* [LACIM Seminar at Université du Québec à Montréal](https://lacim.uqam.ca/event/george-seelinger-k-theoretic-catalan/), March 19, 2021 (virtual)
 * [ICERM Introductory Workshop: Combinatorial Algebraic Geometry](https://icerm.brown.edu/programs/sp-s21/w1/), February 1--5, 2021, ICERM (virtual)
 
 2020

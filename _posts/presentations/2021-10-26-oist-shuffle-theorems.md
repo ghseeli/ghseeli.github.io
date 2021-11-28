@@ -5,6 +5,7 @@ date: 2021-10-26
 categories: presentation
 use_math: true
 pdf-url: https://groups.oist.jp/sites/default/files/imce/u111531/OISTRTS_George_Seelinger_2021-10-26.pdf
+video-url: https://vimeo.com/638928625
 ---
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/638928625?h=c788f0160f" width="640" height="360" frameborder="0" allowfullscreen></iframe>

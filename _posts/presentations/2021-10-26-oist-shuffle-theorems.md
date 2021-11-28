@@ -2,7 +2,7 @@
 layout: post
 title: "OIST: Diagonal harmonics and shuffle theorems"
 date: 2021-10-26
-categories: presentation
+categories: news presentation
 use_math: true
 pdf-url: https://groups.oist.jp/sites/default/files/imce/u111531/OISTRTS_George_Seelinger_2021-10-26.pdf
 video-url: https://vimeo.com/638928625

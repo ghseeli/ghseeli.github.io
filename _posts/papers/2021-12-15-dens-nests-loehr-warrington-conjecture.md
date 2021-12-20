@@ -19,7 +19,7 @@ journal:
 show-date: false
 ---
 Abstract: In a companion paper, we introduced raising operator series called
-/Catalanimals/.  Among them are /Schur Catalanimals/ which
+*Catalanimals*.  Among them are *Schur Catalanimals* which
 represent Schur functions \\(s_{\mu }(X^{m,n})\\) in alphabets
 corresponding to copies of the algebra of symmetric functions inside
 the elliptic Hall algebra of Burban and Schiffmann.
@@ -27,9 +27,9 @@ the elliptic Hall algebra of Burban and Schiffmann.
 Here we obtain a combinatorial formula for symmetric functions given
 by a class of Catalanimals that includes the Schur Catalanimals.  Our
 formula is expressed as a weighted sum of LLT polynomials, with terms
-indexed by configurations of nested lattice paths called /nests/,
+indexed by configurations of nested lattice paths called *nests*,
 having endpoints and bounding constraints controlled by data called a
-/den/.
+*den*.
 
 Applied to Schur Catalanimals for the alphabets \\(X^{m,1}\\) with \\(n=1\\),
 our `nests in a den' formula proves the combinatorial formula

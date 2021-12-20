@@ -27,7 +27,7 @@ the elliptic Hall algebra of Burban and Schiffmann.
 Here we obtain a combinatorial formula for symmetric functions given
 by a class of Catalanimals that includes the Schur Catalanimals.  Our
 formula is expressed as a weighted sum of LLT polynomials, with terms
-indexed by configurations of nested lattice paths called {\em nests},
+indexed by configurations of nested lattice paths called /nests/,
 having endpoints and bounding constraints controlled by data called a
 /den/.
 

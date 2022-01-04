@@ -7,6 +7,7 @@ Conferences, Seminars, and Workshops Attended or Planning to Attend
 
 2021
 ----
+* [OIST Representation Theory Seminar](https://groups.oist.jp/representations/seminars), October 26, Okinawa Institute of Science and Technology (virtual)
 * [ICERM Geometry and Combinatorics from Root Systems](https://icerm.brown.edu/programs/sp-s21/w3/), March 22--26, 2021, ICERM (virtual)
 * [LACIM Seminar](https://lacim.uqam.ca/event/george-seelinger-k-theoretic-catalan/), March 19, 2021, Université du Québec à Montréal (virtual)
 * [ICERM Introductory Workshop: Combinatorial Algebraic Geometry](https://icerm.brown.edu/programs/sp-s21/w1/), February 1--5, 2021, ICERM (virtual)

@@ -9,6 +9,7 @@ layout: post
 title: 'Math 417: Matrix Algebra'
 inst: University of Michigan
 inst-url: https://math.lsa.umich.edu
+syllabus: https://github.com/ghseeli/math417-w22-notes/blob/main/22W-Math417-Syllabus.pdf?raw=true
 semester: Winter 2022
 date: 2022-01-05 10:00:00
 comments: false
@@ -16,8 +17,10 @@ categories: teaching
 published: true
 no-page: false 
 ---
+** Syllabus
+The syllabus can be found [[https://github.com/ghseeli/math417-w22-notes/blob/main/22W-Math417-Syllabus.pdf?raw=true][here]].
 
-* Schedule
+** Schedule
 | Date           | Topics                                         | Book Sections | Homework | Notes and Recording |
 |----------------+------------------------------------------------+---------------+----------+---------------------|
 | 2022-01-05 Wed | Linear Systems, Gauss Elimination and Matrices | 1.1 and 1.2   |          | [[https://raw.githubusercontent.com/ghseeli/math417-w22-notes/main/20220105-Linear%20Systems%20and%20Matrices.pdf][Notes]] & [[https://umich.zoom.us/rec/share/bWypNEVc6cToZZ6o6632omYHJWtEuYq_coJroNhZGnGfpnjZwFwzi1kTX23IHCY.eph9SYcuVVcQhhxi][Recording]]   |

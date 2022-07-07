@@ -4,6 +4,10 @@ title: Confrences, Workshops, etc.
 ---
 Conferences, Seminars, and Workshops Attended or Planning to Attend
 ===
+2022
+----
+* [Open Problems in Algebraic Combinatorics](http://www-users.math.umn.edu/~shopkins/OPAC/opac.html#), May 18--22, 2020, University of Minnesota, Minneapolis, MN
+
 
 2021
 ----

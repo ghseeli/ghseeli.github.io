@@ -24,10 +24,12 @@ The syllabus is available on Canvas.
 + Midterm 2: [2022-11-10 Thu] 6pm--8pm
 + Final Exam: [2022-12-14 Wed] 8am--10am
 ** Schedule
+Note, recordings will be available for 7 days after the lecture, and will then be unpublished.
+
 | Date             | Topics | Book Sections | Notes and Recording | Additional Notes |
 |------------------+--------+---------------+---------------------+------------------|
 | [2022-08-29 Mon] |        |          12.1 |                     |                  |
 
 # Local Variables:
-# after-save-hook: (lambda nil (when (org-html-export-to-html) (rename-file "_math417.md" "2022-01-05-math-417.md" t)))
+# after-save-hook: (lambda nil (when (org-html-export-to-html) (rename-file "_math215.md" "2022-08-29-math-215.md" t)))
 # End:

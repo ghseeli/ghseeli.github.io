@@ -1,4 +1,4 @@
-#+TITLE: Math 417
+#+TITLE: Math 215 
 #+OPTIONS: num:nil
 #+EXPORT_FILE_NAME: ./2022-08-29-math-215.md
 #+OPTIONS: toc:nil

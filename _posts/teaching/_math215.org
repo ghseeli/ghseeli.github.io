@@ -32,7 +32,7 @@ Note, recordings will be available for 7 days after the lecture, and will then b
 
 | Date             | Topics                  | Book Sections | Notes and Recording (Section 10) | Notes and Recording (Section 50) | Additional Notes                            |
 |------------------+-------------------------+---------------+----------------------------------+----------------------------------+---------------------------------------------|
-| [2022-08-29 Mon] | Coordinates and Vectors | 12.1 & 12.2   | [[https://www.dropbox.com/s/x1y5nwebgf224zb/20220829-Coordinate%20Systems%20-%20Section%2010.pdf?dl=0][Notes]] & [[https://leccap.engin.umich.edu/leccap/player/r/WZm1fj][Recording]]                |                                  | Gateway Exam practice is available on [[https://instruct.math.lsa.umich.edu/][WebHW]] |
+| [2022-08-29 Mon] | Coordinates and Vectors | 12.1 & 12.2   | [[https://www.dropbox.com/s/x1y5nwebgf224zb/20220829-Coordinate%20Systems%20-%20Section%2010.pdf?dl=0][Notes]] & [[https://leccap.engin.umich.edu/leccap/player/r/WZm1fj][Recording]]                | [[https://www.dropbox.com/s/yao7p81etf6psgi/20220829-Coordinate%20Systems%20-%20Section%2050.pdf?dl=0][Notes]] & [[https://leccap.engin.umich.edu/leccap/player/r/nJfUmW][Recording]]                              | Gateway Exam practice is available on [[https://instruct.math.lsa.umich.edu/][WebHW]] |
 |                  |                         |               |                                  |                                  |                                             |
 
 # Local Variables:

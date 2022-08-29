@@ -17,12 +17,16 @@ published: true
 no-page: false 
 ---
 ** Syllabus
-The syllabus is available on Canvas.
+The syllabus is available on [[https://canvas.it.umich.edu/][Canvas]].
 ** Important dates
 + Last day to add/drop without "W": [2022-09-19 Mon]
 + Midterm 1: [2022-10-06 Thu] 6pm--8pm
 + Midterm 2: [2022-11-10 Thu] 6pm--8pm
 + Final Exam: [2022-12-14 Wed] 8am--10am
+** Office Hours
++ Monday’s 9a--10a (EH 3827)
++ Wednesday’s 1p--2p ([[https://lsa.umich.edu/math/undergraduates/course-resources/math-lab.html][Math Lab]])
++ Friday’s 9a--10a (EH 3827)
 ** Schedule
 Note, recordings will be available for 7 days after the lecture, and will then be unpublished.
 

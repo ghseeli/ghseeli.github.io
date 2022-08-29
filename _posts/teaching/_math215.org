@@ -10,7 +10,7 @@ title: 'Math 215: Multivariable and Vector Calculus'
 inst: University of Michigan
 inst-url: https://math.lsa.umich.edu
 semester: Fall 2022
-date: 2022-08-28 08:00:00
+date: 2022-08-29 08:00:00
 comments: false
 categories: teaching
 published: true
@@ -26,9 +26,9 @@ The syllabus is available on Canvas.
 ** Schedule
 Note, recordings will be available for 7 days after the lecture, and will then be unpublished.
 
-| Date             | Topics | Book Sections | Notes and Recording | Additional Notes |
-|------------------+--------+---------------+---------------------+------------------|
-| [2022-08-29 Mon] |        |          12.1 |                     |                  |
+| Date             | Topics | Book Sections | Notes and Recording (Section 10) | Notes and Recording (Section 50) | Additional Notes |
+|------------------+--------+---------------+----------------------------------+----------------------------------+------------------|
+| [2022-08-29 Mon] |        |          12.1 |                                  |                                  |                  |
 
 # Local Variables:
 # after-save-hook: (lambda nil (when (org-html-export-to-html) (rename-file "_math215.md" "2022-08-29-math-215.md" t)))

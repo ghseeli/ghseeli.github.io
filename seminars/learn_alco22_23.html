@@ -11,7 +11,7 @@ use_math: true
       <span>{{post.date | date: '%D'}}</span> »
       {% unless post.no-page %}<a href="{{site.url}}{{post.url}}">{% endunless %}
       {% if post.speaker != null %}
-      {{post.speaker}}:
+      {{post.speaker}}: 
       {% endif %}
       {% if post.title != null %}
       {{post.title}}
@@ -19,7 +19,7 @@ use_math: true
       {% unless post.no-page %}</a>{% endunless %}
       {% unless post.no-abstract %}<details>
           <summary>
-            Read More
+            Abstract
           </summary>
           <br />
             {{ post.content | markdownify }}

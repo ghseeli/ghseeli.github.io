@@ -1,6 +1,7 @@
 name: George H. Seelinger
 markdown: kramdown
 mathjax: true
+future: true
 theme: minima
 header_pages:
   - index.html

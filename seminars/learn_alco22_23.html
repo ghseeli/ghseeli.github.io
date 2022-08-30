@@ -8,7 +8,23 @@ use_math: true
   {% for post in site.posts %}
     {% if post.categories contains "learnalco2223" %}
     <div class="post-preview">
-    {{post.date | date: '%Y-%M-%D'}}
+      <span>{{post.date | date: '%Y-%M-%D'}}</span> »
+      {% unless post.no-page %}<a href="{{site.url}}{{post.url}}">{% endunless %}
+      {% if post.speaker != null %}
+      {{post.speaker}}:
+      {% endif %}
+      {% if post.title != null %}
+      {{post.title}}
+      {% endif %}
+      {% unless post.no-page %}</a>{% endunless %}
+      {% unless post.no-abstract %}<details>
+          <summary>
+            Read More
+          </summary>
+          <br />
+            {{ post.content | markdownify }}
+          </details>
+      {% endunless %}
     </div>
     {% endif %}
 {% endfor %}	

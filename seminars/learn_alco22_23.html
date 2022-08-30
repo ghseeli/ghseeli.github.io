@@ -8,7 +8,7 @@ use_math: true
   {% for post in site.posts %}
     {% if post.categories contains "learnalco2223" %}
     <div class="post-preview">
-      <span>{{post.date | date: '%Y-%M-%D'}}</span> »
+      <span>{{post.date | date: '%D'}}</span> »
       {% unless post.no-page %}<a href="{{site.url}}{{post.url}}">{% endunless %}
       {% if post.speaker != null %}
       {{post.speaker}}:

@@ -9,10 +9,10 @@ use_math: true
     {% if post.categories contains "learnalco2223" %}
     <div class="post-preview">
       <span>{{post.date | date: '%D'}}</span> »
-      {% unless post.no-page %}<a href="{{site.url}}{{post.url}}">{% endunless %}
       {% if post.speaker != null %}
       {{post.speaker}}: 
       {% endif %}
+      {% unless post.no-page %}<a href="{{site.url}}{{post.url}}">{% endunless %}
       {% if post.title != null %}
       {{post.title}}
       {% endif %}

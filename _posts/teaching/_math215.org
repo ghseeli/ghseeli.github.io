@@ -27,10 +27,14 @@ The syllabus is available on [[https://canvas.it.umich.edu/][Canvas]].
 + Monday’s 9a--10a (EH 3827)
 + Wednesday’s 1p--2p ([[https://lsa.umich.edu/math/undergraduates/course-resources/math-lab.html][Math Lab]])
 + Friday’s 9a--10a (EH 3827)
++ You may also attend any instructor’s office hours (see Canvas syllabus) or go to the [[https://lsa.umich.edu/math/undergraduates/course-resources/math-lab.html][Math Lab]] when they are open.
 ** Homework Schedule
 + Written HW due every Tuesday
 + WebHW due every Saturday
 + Prelab assignments due the day of your lab meeting
+** Resources
++ For practice problems, look at examples and exercises in the corresponding textbook sections; answers to odd numbered questions are in the back of the book.
++ For more challenging problems, look at [[http://www.math.lsa.umich.edu/courses/215/17exampractice/][old exams]].
 ** Class Schedule, Notes, and Recordings
 Note, recordings will be available for 7 days after the lecture, and will then be unpublished.
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Tilings with convex polygons
-speaker: Amanda Schwartz
-date: 2022-10-26
+title: TBA
+speaker: Zenan Fu
+date: 2022-11-09
 categories: learnalco2223
 published: true
 show-date: true

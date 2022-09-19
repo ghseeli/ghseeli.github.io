@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Totally nonnegative Grassmannian
-speaker: Jialing Zou
+speaker: Jialiang Zou
 date: 2022-10-12
 categories: learnalco2223
 published: true

@@ -22,6 +22,9 @@ Organizers: <a href="https://math.mit.edu/~gaoyibo/">Yibo Gao</a>, <a href="http
       {% if post.title != null %}
       {{post.title}}
       {% endif %}
+	{% if post.pdf-url != null %}
+	&bull; (<a href="{{ post.pdf-url }}" target="_blank">Notes</a>)
+	{% endif %}
       {% unless post.no-page %}</a>{% endunless %}
       {% unless post.no-abstract %}<details>
           <summary>

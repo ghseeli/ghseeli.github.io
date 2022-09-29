@@ -7,6 +7,7 @@ Conferences, Seminars, and Workshops Attended or Planning to Attend
 
 2022
 ----
+* [Interactions between Hessenberg Varieties, Chromatic Functions, and LLT Polynomials](https://www.birs.ca/events/2022/5-day-workshops/22w5143), October 16--21, 2022, Banff International Research Station, BC, Canada (virtual)
 * [Open Problems in Algebraic Combinatorics](http://www-users.math.umn.edu/~shopkins/OPAC/opac.html#), May 16--20, 2022, University of Minnesota, Minneapolis, MN
 
 

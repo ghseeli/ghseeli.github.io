@@ -4,6 +4,7 @@ title: Dimers and Spanning Trees
 speaker: Katie Waddle
 date: 2022-09-28
 categories: learnalco2223
+pdf-url: https://static.georgeseelinger.com/learn-alco-22-23/20220928-Katie%20Waddle_%20Dimers%20and%20Spanning%20Trees.pdf
 published: true
 show-date: true
 ---

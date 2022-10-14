@@ -26,7 +26,7 @@ The syllabus is available on [[https://canvas.it.umich.edu/][Canvas]].
 ** Office Hours
 + Monday’s 9a--10a ([[https://lsa.umich.edu/content/dam/math-assets/math-images/Zoom-Backgrounds/Math%20Atrium.png][Math Atrium]] in East Hall)
 + Wednesday’s 1p--2p ([[https://lsa.umich.edu/math/undergraduates/course-resources/math-lab.html][Math Lab]])
-+ Friday’s 9a--10a (EH 3827)
++ Friday’s 9a--10a ([[https://lsa.umich.edu/content/dam/math-assets/math-images/Zoom-Backgrounds/Math%20Atrium.png][Math Atrium]] in East Hall)
 + You may also attend any instructor’s office hours (see Canvas syllabus) or go to the [[https://lsa.umich.edu/math/undergraduates/course-resources/math-lab.html][Math Lab]] when they are open.
 ** Homework Schedule
 + Written HW due every Tuesday

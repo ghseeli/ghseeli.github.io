@@ -86,6 +86,7 @@ Note, recordings will be available for +7+ 10 days after the lecture, and will t
 | [2022-12-07 Wed] | Final review                                                  |               |                                  |                                  |                                                                       |
 | [2022-12-09 Fri] | Final review                                                  |               |                                  |                                  |                                                                       |
 
+In response to questions about similarities between Stokes’ theorem and Divergence theorem, I have made some *BONUS* and *OPTIONAL* notes on differential forms and generalized Stokes’ theorem: [[https://www.dropbox.com/s/0y3x717vkje4ovj/Bonus%20-%20Differential%20forms%20and%20generalized%20Stokes%20theorem.pdf?dl=0][Optional Bonus notes on differential forms]]. See also the [[https://en.wikipedia.org/wiki/Differential_form][Wikipedia article on differential forms]].
 # Local Variables:
 # after-save-hook: (lambda nil (when (org-html-export-to-html) (rename-file "_math215.md" "2022-08-29-math-215.md" t)))
 # End:

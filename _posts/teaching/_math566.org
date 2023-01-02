@@ -1,0 +1,26 @@
+#+TITLE: Math 566 
+#+OPTIONS: num:nil
+#+EXPORT_FILE_NAME: ./2023-01-02-math-566.md
+#+OPTIONS: toc:nil
+#+OPTIONS: html-postamble:nil
+#+OPTIONS: -:nil
+---
+layout: post
+title: 'Math 566: Combinatorial Theory'
+inst: University of Michigan
+inst-url: https://math.lsa.umich.edu
+semester: Winter 2023
+date: 2023-01-02 08:00:00
+comments: false
+categories: teaching
+published: true
+no-page: false 
+---
+** Syllabus
+** Important Dates
+** Office Hours
+** Homework Assignments
+** List of Lectures
+| Date             | Topics            | Additional Reading | Additional Notes |
+|------------------+-------------------+--------------------+------------------|
+| [2023-01-05 Thu] | Graph Eigenvalues | [AC, Ch 1]         |                  |

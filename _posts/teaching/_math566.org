@@ -33,4 +33,4 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
 ** List of Lectures
 | Date             | Topics            | Additional Reading | Additional Notes |
 |------------------+-------------------+--------------------+------------------|
-| [2023-01-05 Thu] | Graph Eigenvalues | [AC, Ch 1]         |                  |
+| [2023-01-05 Thu] | Graph Eigenvalues | [AC, Ch 1]         | [[https://www.dropbox.com/s/e48jap0qgz0kihb/20230105-Math566-Worksheet1.pdf?dl=0][Handout]]          |

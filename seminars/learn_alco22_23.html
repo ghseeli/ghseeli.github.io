@@ -9,10 +9,12 @@ Topic: The Dimer Model (Fall 2022) and Schubert Calculus (Winter 2023)<br />
 Meetings: Wednesdays 2:30-4pm in East Hall 4088<br />
 
 Organizers: <a href="https://math.mit.edu/~gaoyibo/">Yibo Gao</a>, <a href="http://www-personal.umich.edu/~georgete/index.html">Terrence George</a>, <a href="http://www.math.lsa.umich.edu/~tfylam/">Thomas Lam</a>, and <a href="https://ghseeli.github.io">George H. Seelinger</a>.<br />
-<h1>Talks</h1>
+<h1>Schubert Calculus Talks</h1>
+<h1>Dimer Model Talks</h1>
 <div class="all-posts">
   {% for post in site.posts reversed %}
-    {% if post.categories contains "learnalco2223" %}
+  {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+    {% if post.categories contains "learnalco2223" and year == "2022" %}
     <div class="post-preview">
       <span>{{post.date | date: '%D'}}</span> »
       {% if post.speaker != null %}

@@ -29,6 +29,7 @@ The syllabus can be found [[https://www.dropbox.com/s/z8wtkly0ig1c4gx/23W-Math56
 ** Textbook
 The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Springer, 2018. UM students can access the ebook [[https://link-springer-com.proxy.lib.umich.edu/book/10.1007/978-1-4614-6998-8][here]].
 ** Homework Assignments
+[[https://www.dropbox.com/s/ot0rjo5t5j4akp8/Math566-Homework1.pdf?dl=0][Homework 1]] 
 
 ** List of Lectures
 | Date             | Topics            | Additional Reading | Additional Notes |

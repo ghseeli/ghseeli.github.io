@@ -30,8 +30,12 @@ The syllabus can be found [[https://www.dropbox.com/s/z8wtkly0ig1c4gx/23W-Math56
 The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Springer, 2018. UM students can access the ebook [[https://link-springer-com.proxy.lib.umich.edu/book/10.1007/978-1-4614-6998-8][here]].
 ** Homework Assignments
 [[https://www.dropbox.com/s/ot0rjo5t5j4akp8/Math566-Homework1.pdf?dl=0][Homework 1]] 
-
+** Notes
+1. [[https://www.dropbox.com/s/vpgsrrjntn2dufw/1-Intro%20and%20graph%20eigenvalues.pdf?dl=0][Introduction to graph eigenvalues]]
+2. [[https://www.dropbox.com/s/09a0bdsz0mt0ajm/2-Properties%20of%20graph%20eigenvalues.pdf?dl=0][Properties of graph eigenvalues]]
 ** List of Lectures
-| Date             | Topics            | Additional Reading | Additional Notes |
-|------------------+-------------------+--------------------+------------------|
-| [2023-01-05 Thu] | Graph Eigenvalues | [AC, Ch 1]         | [[https://www.dropbox.com/s/e48jap0qgz0kihb/20230105-Math566-Worksheet1.pdf?dl=0][Handout]]          |
+| Date             | Topics                           | Additional Reading | Class Notes | Additional Materials |
+|------------------+----------------------------------+--------------------+-------------+----------------------|
+| [2023-01-05 Thu] | Graph Eigenvalues                | [AC, Ch 1]         |             | [[https://www.dropbox.com/s/e48jap0qgz0kihb/20230105-Math566-Worksheet1.pdf?dl=0][Handout]]              |
+| [2023-01-10 Tue] | Graph Eigenvalues and properties | [AC, Ch 1]         |             | [[https://www.dropbox.com/s/9cvlpzz1925f1qt/20230110-Math566-Worksheet2.pdf?dl=0][Handout]]              |
+|                  |                                  |                    |             |                      |

@@ -36,7 +36,7 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
 1. [[https://www.dropbox.com/s/ot0rjo5t5j4akp8/Math566-Homework1.pdf?dl=0][Homework 1]] due [2023-01-24 Tue].
 ** Notes
 1. [[https://www.dropbox.com/s/vpgsrrjntn2dufw/1-Intro%20and%20graph%20eigenvalues.pdf?dl=0][Introduction to graph eigenvalues]]
-2. [[https://www.dropbox.com/s/09a0bdsz0mt0ajm/2-Properties%20of%20graph%20eigenvalues.pdf?dl=0][Properties of graph eigenvalues]]
+2. [[https://www.dropbox.com/s/srsn0ndbyxvbfeg/2-Properties%20of%20graph%20eigenvalues.pdf?dl=0][Properties of graph eigenvalues]]
 3. [[https://www.dropbox.com/s/to6mfm8jt9m4u34/3-Walks%20in%20cubes%20and%20the%20Radon%20transform.pdf?dl=0][Walks in cubes and the Radon transform]]
    
 ** List of Lectures

@@ -35,6 +35,7 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
 ** References
 + [AC] /Algebraic Combinatorics/ by Richard P. Stanley, Springer, 2018. [[https://link-springer-com.proxy.lib.umich.edu/book/10.1007/978-1-4614-6998-8][UM access]].
 + [ArSt] /Tilings/ by Federico Ardila and Richard P. Stanley, 2005. [[https://arxiv.org/pdf/math/0501170v2.pdf][Link]].
++ [Ma] /Thirty-three Miniatures: Mathematical and Algorithmic Applications of Linear Algebra/ by Jiří Matoušek, 2010. [[https://kam.mff.cuni.cz/~matousek/stml-53-matousek-1.pdf][Link]].
 + [Wi] /Generatingfunctionology/ by Herbert Wilf, Academic Press, 1990. [[https://mgetit.lib.umich.edu/resolve?ctx_enc=info:ofi/enc:UTF-8&ctx_id=10_1&ctx_tim=2023-01-24%2013:37:42&ctx_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004&rfr_id=info:sid/primo.exlibrisgroup.com-askewsholts&rft_val_fmt=info:ofi/fmt:kev:mtx:book&rft.genre=book&rft.btitle=Generatingfunctionology&rft.au=Wilf%2C+Herbert+S&rft.date=2014-05-10&rft.isbn=9780127519555&rft.eisbn=9781483276632&rft.pub=Academic+Press&rft_dat=%3Caskewsholts%3E9781483276632%3C/askewsholts%3E&svc_dat=viewit][UM access]].
  
 ** Homework Assignments
@@ -47,6 +48,7 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
 4. [[https://www.dropbox.com/s/iygehe250mz2idd/4-Random%20Walks%20and%20hitting%20times.pdf?dl=0][Random walks in graphs and hitting times]]
 5. [[https://www.dropbox.com/s/77c9z50n692vn7t/5-Generating%20functions.pdf?dl=0][Generating functions]]
 6. [[https://www.dropbox.com/s/i0vvhk8h6wl9ff4/6-Stationary%20distributions.pdf?dl=0][Stationary distributions of random walks in graphs]]
+7. [[https://www.dropbox.com/s/2uv62w61s225k6n/7-Tilings.pdf?dl=0][Tilings]] 
    
 ** List of Lectures
 | Date             | Topics                                                         | Additional Reading                  | Class Notes               | Additional Materials                                            |
@@ -57,4 +59,4 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
 | [2023-01-17 Tue] | Walks in a cube, continued + random walks                      | [AC, Ch 2]                          | rest of 3                 | [[https://www.dropbox.com/s/o3t582utcc0q0wp/20230117-Math566-Worksheet4.pdf?dl=0][Handout]] + [[https://github.com/ghseeli/math417-w22-notes/blob/main/20220218-The%20matrix%20of%20a%20linear%20transformation%20between%20linear%20spaces.pdf?raw=true][Notes on matrix associated to a linear transformation]] |
 | [2023-01-19 Thu] | Random walks continued                                         | [AC, Ch 3]                          | Most of 4                 | [[https://www.dropbox.com/s/tf2opn97s0zvm28/20230119-Math566-Worksheet5.pdf?dl=0][Handout]]                                                         |
 | [2023-01-24 Tue] | Random walks + generating functions + stationary distributions | [AC, Ch 3 + Exercise 3.1] [Wi, Ch1] | Rest of 4 + 5 + 6         |                                                                 |
-
+| [2023-01-26 Thu] | Tilings                                                        | [ArSt 1--2], [Ma, Ch 22]            | First 3 pages of 7        | [[https://www.dropbox.com/s/ph2ohk90rzc249c/20230126-Math566-Worksheet6.pdf?dl=0][Handout]]                                                         |

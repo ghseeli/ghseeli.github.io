@@ -34,11 +34,12 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
 
 ** References
 + [AC] /Algebraic Combinatorics/ by Richard P. Stanley, Springer, 2018. [[https://link-springer-com.proxy.lib.umich.edu/book/10.1007/978-1-4614-6998-8][UM access]].
++ [ArSt] /Tilings/ by Federico Ardila and Richard P. Stanley, 2005. [[https://arxiv.org/pdf/math/0501170v2.pdf][Link]].
 + [Wi] /Generatingfunctionology/ by Herbert Wilf, Academic Press, 1990. [[https://mgetit.lib.umich.edu/resolve?ctx_enc=info:ofi/enc:UTF-8&ctx_id=10_1&ctx_tim=2023-01-24%2013:37:42&ctx_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004&rfr_id=info:sid/primo.exlibrisgroup.com-askewsholts&rft_val_fmt=info:ofi/fmt:kev:mtx:book&rft.genre=book&rft.btitle=Generatingfunctionology&rft.au=Wilf%2C+Herbert+S&rft.date=2014-05-10&rft.isbn=9780127519555&rft.eisbn=9781483276632&rft.pub=Academic+Press&rft_dat=%3Caskewsholts%3E9781483276632%3C/askewsholts%3E&svc_dat=viewit][UM access]].
  
 ** Homework Assignments
 1. [[https://www.dropbox.com/s/ot0rjo5t5j4akp8/Math566-Homework1.pdf?dl=0][Homework 1]] due [2023-01-24 Tue]. [[https://www.dropbox.com/s/3i0apvpt0ewexqn/Math566-Hints-Homework1.pdf?dl=0][Hints]].
-2. [[https://www.dropbox.com/s/t62lfokbjivn99k/Math566-Homework2.pdf?dl=0][Homework 2]] due date TBD.
+2. [[https://www.dropbox.com/s/t62lfokbjivn99k/Math566-Homework2.pdf?dl=0][Homework 2]] due date TBD. [[https://www.dropbox.com/s/gm9h6qpf4n3jn0g/Math566-Hints-Homework2.pdf?dl=0][Hints]].
 ** Notes
 1. [[https://www.dropbox.com/s/vpgsrrjntn2dufw/1-Intro%20and%20graph%20eigenvalues.pdf?dl=0][Introduction to graph eigenvalues]]
 2. [[https://www.dropbox.com/s/srsn0ndbyxvbfeg/2-Properties%20of%20graph%20eigenvalues.pdf?dl=0][Properties of graph eigenvalues]]

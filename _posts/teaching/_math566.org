@@ -40,7 +40,8 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
  
 ** Homework Assignments
 1. [[https://www.dropbox.com/s/ot0rjo5t5j4akp8/Math566-Homework1.pdf?dl=0][Homework 1]] due [2023-01-24 Tue]. [[https://www.dropbox.com/s/3i0apvpt0ewexqn/Math566-Hints-Homework1.pdf?dl=0][Hints]].
-2. [[https://www.dropbox.com/s/t62lfokbjivn99k/Math566-Homework2.pdf?dl=0][Homework 2]] due date TBD. [[https://www.dropbox.com/s/gm9h6qpf4n3jn0g/Math566-Hints-Homework2.pdf?dl=0][Hints]].
+2. [[https://www.dropbox.com/s/t62lfokbjivn99k/Math566-Homework2.pdf?dl=0][Homework 2]] due date [2023-02-10 Fri]. [[https://www.dropbox.com/s/gm9h6qpf4n3jn0g/Math566-Hints-Homework2.pdf?dl=0][Hints]].
+   
 ** Notes
 1. [[https://www.dropbox.com/s/vpgsrrjntn2dufw/1-Intro%20and%20graph%20eigenvalues.pdf?dl=0][Introduction to graph eigenvalues]]
 2. [[https://www.dropbox.com/s/srsn0ndbyxvbfeg/2-Properties%20of%20graph%20eigenvalues.pdf?dl=0][Properties of graph eigenvalues]]
@@ -48,7 +49,9 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
 4. [[https://www.dropbox.com/s/iygehe250mz2idd/4-Random%20Walks%20and%20hitting%20times.pdf?dl=0][Random walks in graphs and hitting times]]
 5. [[https://www.dropbox.com/s/77c9z50n692vn7t/5-Generating%20functions.pdf?dl=0][Generating functions]]
 6. [[https://www.dropbox.com/s/i0vvhk8h6wl9ff4/6-Stationary%20distributions.pdf?dl=0][Stationary distributions of random walks in graphs]]
-7. [[https://www.dropbox.com/s/2uv62w61s225k6n/7-Tilings.pdf?dl=0][Tilings]] 
+7. [[https://www.dropbox.com/s/2uv62w61s225k6n/7-Tilings.pdf?dl=0][Tilings]]
+8. [[https://www.dropbox.com/s/pabj1u73akynmg4/8-Tilings%20of%20a%20rectangular%20grid.pdf?dl=0][Tilings of rectangular grid]]
+9. [[https://www.dropbox.com/s/k5sjt43b8yi2gze/9-Posets%20and%20Sperner%20property.pdf?dl=0][Posets]]
    
 ** List of Lectures
 | Date             | Topics                                                         | Additional Reading                  | Class Notes               | Additional Materials                                            |
@@ -61,3 +64,4 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
 | [2023-01-24 Tue] | Random walks + generating functions + stationary distributions | [AC, Ch 3 + Exercise 3.1] [Wi, Ch1] | Rest of 4 + 5 + 6         |                                                                 |
 | [2023-01-26 Thu] | Tilings                                                        | [ArSt 1--2], [Ma, Ch 22]            | First 3 pages of 7        | [[https://www.dropbox.com/s/ph2ohk90rzc249c/20230126-Math566-Worksheet6.pdf?dl=0][Handout]]                                                         |
 | [2023-01-31 Tue] | Tilings continued                                              |                                     | Rest of 7                 | [[https://www.dropbox.com/s/dozcdizpgzy3oah/20230131-Math566-Worksheet7.pdf?dl=0][Handout]]                                                         |
+| [2023-02-02 Thu] | Tilings of a rectangle + posets                                | [AC, Ch 4]                          | 8 + first 2 pages of 9    | [[https://www.dropbox.com/s/39waicl7wk6fu74/20230202-Math566-Worksheet8.pdf?dl=0][Handout]]                                                         |

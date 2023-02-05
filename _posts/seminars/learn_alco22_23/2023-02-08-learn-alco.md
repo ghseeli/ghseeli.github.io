@@ -7,4 +7,4 @@ categories: learnalco2223
 published: true
 show-date: true
 ---
-TBD
+In this talk, we will present the relationship between the divided difference formula and pipe dream formula for Schubert polynomials via the work of Fomin-Stanley in the nilCoxeter algebra. 

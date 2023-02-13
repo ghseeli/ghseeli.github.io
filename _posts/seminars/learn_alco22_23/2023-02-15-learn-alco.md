@@ -7,4 +7,4 @@ categories: learnalco2223
 published: true
 show-date: true
 ---
-TBD
+We will discuss several combinatorial characterizations of smooth Schubert varieties due to Lakshmibai and Sandhya, and Carrell and Petersen.

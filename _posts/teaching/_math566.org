@@ -40,7 +40,7 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
  
 ** Homework Assignments
 1. [[https://www.dropbox.com/s/ot0rjo5t5j4akp8/Math566-Homework1.pdf?dl=0][Homework 1]] due [2023-01-24 Tue]. [[https://www.dropbox.com/s/3i0apvpt0ewexqn/Math566-Hints-Homework1.pdf?dl=0][Hints]].
-2. [[https://www.dropbox.com/s/t62lfokbjivn99k/Math566-Homework2.pdf?dl=0][Homework 2]] due [2023-02-10 Fri]. [[https://www.dropbox.com/s/gm9h6qpf4n3jn0g/Math566-Hints-Homework2.pdf?dl=0][Hints]].
+2. [[https://www.dropbox.com/s/t62lfokbjivn99k/Math566-Homework2.pdf?dl=0][Homework 2]] due [2023-02-10 Fri]. [[https://www.dropbox.com/s/gm9h6qpf4n3jn0g/Math566-Hints-Homework2.pdf?dl=0][Hints]]. [[https://umich.instructure.com/courses/573804/files/29696084?module_item_id=2883468][Selected solutions (Canvas)]].
 3. [[https://www.dropbox.com/s/fdzej8a5uxvfxjc/Math566-Homework3.pdf?dl=0][Homework 3]] due TBD.
    
 ** Notes

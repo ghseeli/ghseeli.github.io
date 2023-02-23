@@ -54,7 +54,8 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
 8. [[https://www.dropbox.com/s/pabj1u73akynmg4/8-Tilings%20of%20a%20rectangular%20grid.pdf?dl=0][Tilings of rectangular grid]]
 9. [[https://www.dropbox.com/s/k5sjt43b8yi2gze/9-Posets%20and%20Sperner%20property.pdf?dl=0][Posets]]
 10. [[https://www.dropbox.com/s/5nkvek315dp5wl8/10-Some%20group%20theory.pdf?dl=0][Groups and group actions]]
-11. [[https://www.dropbox.com/s/k7k43jbjse8x2wp/11-Group%20actions%20on%20Boolean%20algebras.pdf?dl=0][Group actions on Boolean algebras]] 
+11. [[https://www.dropbox.com/s/k7k43jbjse8x2wp/11-Group%20actions%20on%20Boolean%20algebras.pdf?dl=0][Group actions on Boolean algebras]]
+12. [[https://www.dropbox.com/s/rul966pzvmicle7/12-Partitions%20and%20q-binomial%20coefficients.pdf?dl=0][Partitions and q-binomial coefficients]]
    
 ** List of Lectures
 | Date             | Topics                                                         | Additional Reading                  | Class Notes                 | Additional Materials                                            |
@@ -72,3 +73,7 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
 | [2023-02-09 Thu] | Sperner’s theorem + group actions                              | [AC, Ch 4+5]                        | rest of 9 + 10              | [[https://www.dropbox.com/s/rz29xwu43emun72/20230209-Math566-Worksheet9.pdf?dl=0][Handout]]                                                         |
 | [2023-02-14 Tue] | Group actions on Boolean algebras                              | [AC, Ch 5]                          | First 2 pages on 11         | [[https://www.dropbox.com/s/b4jk6jj5dh65pg5/20230214-Math566-Worksheet10.pdf?dl=0][Handout]]                                                         |
 | [2023-02-16 Thu] | Group actions on Boolean algebra continued                     | [AC, Ch 5]                          | Worksheet + Last page of 11 | [[https://www.dropbox.com/s/1kbgn443gejowdg/20230216-Math566-Worksheet11.pdf?dl=0][Worksheet]]                                                       |
+| [2023-02-21 Tue] | Midterm                                                        |                                     |                             |                                                                 |
+| [2023-02-23 Thu] | Partitions and q-binomial coefficients                         | [AC, Ch 6]                          | 12                          | [[https://www.dropbox.com/s/kqdwhwovgkpbrhg/20230223-Math566-Worksheet12.pdf?dl=0][Handout]]                                                         |
+| [2023-02-28 Tue] | Break                                                          |                                     |                             |                                                                 |
+| [2023-03-02 Thu] | Break                                                          |                                     |                             |                                                                 |

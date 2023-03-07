@@ -56,6 +56,8 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
 10. [[https://www.dropbox.com/s/5nkvek315dp5wl8/10-Some%20group%20theory.pdf?dl=0][Groups and group actions]]
 11. [[https://www.dropbox.com/s/k7k43jbjse8x2wp/11-Group%20actions%20on%20Boolean%20algebras.pdf?dl=0][Group actions on Boolean algebras]]
 12. [[https://www.dropbox.com/s/rul966pzvmicle7/12-Partitions%20and%20q-binomial%20coefficients.pdf?dl=0][Partitions and q-binomial coefficients]]
+13. [[https://www.dropbox.com/s/br99cw6hmpp1b2j/13-Sperner%20property%20for%20L%28m%2Cn%29.pdf?dl=0][The Sperner porperty for L(m,n)]] 
+14. [[https://www.dropbox.com/s/ko4zny6zodtic7m/14-Spanning%20trees%20and%20resistor%20networks.pdf?dl=0][Spanning trees and resistor networks]]  
    
 ** List of Lectures
 | Date             | Topics                                                         | Additional Reading                  | Class Notes                 | Additional Materials                                            |
@@ -77,3 +79,4 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
 | [2023-02-23 Thu] | Partitions and q-binomial coefficients                         | [AC, Ch 6]                          | 12                          | [[https://www.dropbox.com/s/kqdwhwovgkpbrhg/20230223-Math566-Worksheet12.pdf?dl=0][Handout]]                                                         |
 | [2023-02-28 Tue] | Break                                                          |                                     |                             |                                                                 |
 | [2023-03-02 Thu] | Break                                                          |                                     |                             |                                                                 |
+| [2023-03-07 Tue] | Sperner property of L(m,n) + spanning trees                    | [AC, Ch 6]                          | 13 + First 2 pages of 14    | [[https://www.dropbox.com/s/pmd4ssxomrslakx/20230307-Math566-Worksheet13.pdf?dl=0][Handout]]                                                         |

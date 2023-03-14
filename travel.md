@@ -4,6 +4,7 @@ title: Confrences, Workshops, etc.
 ---
 Conferences, Seminars, and Workshops Attended or Planning to Attend
 ===
+
 2023
 ----
 * [35th International Conference on Formal Power Series and Algebraic Combinatorics (FPSAC)](http://fpsac23.math.ucdavis.edu/), July 17--21, 2023, UC Davis, CA

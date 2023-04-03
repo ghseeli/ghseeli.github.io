@@ -43,7 +43,8 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
 2. [[https://www.dropbox.com/s/t62lfokbjivn99k/Math566-Homework2.pdf?dl=0][Homework 2]] due [2023-02-10 Fri]. [[https://www.dropbox.com/s/gm9h6qpf4n3jn0g/Math566-Hints-Homework2.pdf?dl=0][Hints]]. [[https://umich.instructure.com/courses/573804/files/29696084?module_item_id=2883468][Selected solutions (Canvas)]].
 3. [[https://www.dropbox.com/s/fdzej8a5uxvfxjc/Math566-Homework3.pdf?dl=0][Homework 3]] due [2023-03-13 Mon]. [[https://www.dropbox.com/s/toecpaux1pvh07u/Math566-Hints-Homework3.pdf?dl=0][Hints]].
 4. [[https://www.dropbox.com/s/wqv96z1c6ih5rn2/Math566-Homework4.pdf?dl=0][Homework 4]] due [2023-03-28 Tue].
-   
+5. [[https://www.dropbox.com/s/rzowjyb5d32ooip/Math566-Homework5.pdf?dl=0][Homework 5]] due [2023-04-18 Tue].
+ 
 ** Notes
 1. [[https://www.dropbox.com/s/vpgsrrjntn2dufw/1-Intro%20and%20graph%20eigenvalues.pdf?dl=0][Introduction to graph eigenvalues]]
 2. [[https://www.dropbox.com/s/srsn0ndbyxvbfeg/2-Properties%20of%20graph%20eigenvalues.pdf?dl=0][Properties of graph eigenvalues]]

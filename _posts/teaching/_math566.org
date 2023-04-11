@@ -65,6 +65,7 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
 17. [[https://www.dropbox.com/s/u8r7hsp254yhyhw/17-Directed%20matrix%20tree%20theorem%20and%20Eulerian%20tours.pdf?dl=0][Directed Matrix-Tree Theorem and Eulerian tours]]
 18. [[https://www.dropbox.com/s/nufdahq4z3t8tk6/18-Permutations%2C%20statistics%2C%20and%20pattern%20avoidance.pdf?dl=0][Permutations, statistics, and pattern avoidance]]
 19. [[https://www.dropbox.com/s/zracw910rgac83c/19-Standard%20Young%20Tableaux.pdf?dl=0][Standard Young tableaux]]
+20. [[https://www.dropbox.com/s/vhky0qw5dupqx9r/20-Parking%20functions%20and%20tree%20inversions.pdf?dl=0][Parking functions and tree inversions]]
    
 ** List of Lectures
 | Date             | Topics                                                             | Additional Reading                  | Class Notes                        | Additional Materials                                            |
@@ -96,3 +97,4 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
 | [2023-03-30 Thu] | Chains in Young’s poset and standard Young tableaux                | [AC, Ch 8]                          |                                    | [[https://www.dropbox.com/s/2oidnvdtpf6y8dl/20230330-SYTworksheet.pdf?dl=0][Worksheet]]                                                       |
 | [2023-04-04 Tue] | Standard Young tableaux                                            | [AC, Ch 8]                          | 19                                 |                                                                 |
 | [2023-04-06 Thu] | Standard Young tableaux and RSK                                    | [AC, Ch 8]                          | 19                                 |                                                                 |
+| [2023-04-11 Tue] | Parking functions and labeled tree inversions                      |                                     | 20                                 |                                                                 |

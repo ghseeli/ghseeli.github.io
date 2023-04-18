@@ -67,6 +67,7 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
 19. [[https://www.dropbox.com/s/zracw910rgac83c/19-Standard%20Young%20Tableaux.pdf?dl=0][Standard Young tableaux]]
 20. [[https://www.dropbox.com/s/vhky0qw5dupqx9r/20-Parking%20functions%20and%20tree%20inversions.pdf?dl=0][Parking functions and tree inversions]]
 21. [[https://www.dropbox.com/s/5wkt14zt57it1k2/21-Gessel-Viennot%20Method%20and%20plane%20partitions.pdf?dl=0][Gessel-Viennot method and plane partitions]]
+22. [[https://www.dropbox.com/s/83qsa36gdl027d8/22-Symmetric%20polynomials.pdf?dl=0][Some symmetric polynomials]]
    
 ** List of Lectures
 | Date             | Topics                                                             | Additional Reading                  | Class Notes                        | Additional Materials                                            |
@@ -99,4 +100,5 @@ The optional textbook is /Algebraic Combinatorics/ by Richard P. Stanley, Spring
 | [2023-04-04 Tue] | Standard Young tableaux                                            | [AC, Ch 8]                          | 19                                 |                                                                 |
 | [2023-04-06 Thu] | Standard Young tableaux and RSK                                    | [AC, Ch 8]                          | 19                                 |                                                                 |
 | [2023-04-11 Tue] | Parking functions and labeled tree inversions                      |                                     | 20                                 |                                                                 |
-| [2023-04-13 Thu] | Gessel-Viennot method and plane partitions                         | [AC, Ch 8]                          | 21                                 | [[https://www.dropbox.com/s/ggrrxb733je57w9/20230413-Math566-Worksheet18.pdf?dl=0][Handout]]                                                                |
+| [2023-04-13 Thu] | Gessel-Viennot method and plane partitions                         | [AC, Ch 8]                          | 21                                 | [[https://www.dropbox.com/s/ggrrxb733je57w9/20230413-Math566-Worksheet18.pdf?dl=0][Handout]]                                                         |
+| [2023-04-18 Tue] | Some symmetric polynomials                                         |                                     | 22                                 |                                                                 |

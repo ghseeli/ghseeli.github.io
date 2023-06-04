@@ -8,7 +8,7 @@ Conferences, Seminars, and Workshops Attended or Planning to Attend
 2023
 ----
 * [35th International Conference on Formal Power Series and Algebraic Combinatorics (FPSAC)](http://fpsac23.math.ucdavis.edu/), July 17--21, 2023, UC Davis, CA
-* [Canadian Mathematical Society Summer Meeting](https://www.summer23.cms.math.ca/), June 2--5, 2023, University of Ottawa, ON, Canada
+* [Canadian Mathematical Society Summer Meeting -- Equivariant Schubert calculus and beyond](https://kirillmath.ca/workshop/), June 5--6, 2023, University of Ottawa, ON, Canada
 
 2022
 ----

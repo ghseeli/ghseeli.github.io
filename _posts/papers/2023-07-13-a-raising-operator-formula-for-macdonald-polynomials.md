@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A proof of the Extended Delta Conjecture
+title: A raising operator formula for Macdonald polynomial
 coauthors: 
   - name: Jonah Blasiak
     web: https://www.math.drexel.edu/~jblasiak/

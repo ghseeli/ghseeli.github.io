@@ -7,6 +7,8 @@ Conferences, Seminars, and Workshops Attended or Planning to Attend
 
 2023
 ----
+* [Loyola Topology, Algebra, Combinatorics, and Operators](http://gauss.math.luc.edu/algcomb/), October 4, 2023, Loyola University Chicago, IL
+* [Purdue Mathematical Physics Seminar](https://www.math.purdue.edu/~ebkaufma/seminar.html) , September 13, 2023, Purdue University, IN
 * [35th International Conference on Formal Power Series and Algebraic Combinatorics (FPSAC)](http://fpsac23.math.ucdavis.edu/), July 17--21, 2023, UC Davis, CA
 * [AlCoVE 2023](https://www.math.uwaterloo.ca/~opecheni/alcove2023.htm), June 26--27, 2023, virtual
 * [Canadian Mathematical Society Summer Meeting -- Equivariant Schubert calculus and beyond](https://kirillmath.ca/workshop/), June 5--6, 2023, University of Ottawa, ON, Canada

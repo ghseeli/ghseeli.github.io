@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Introduction to positive geometries
-speaker: Thomas Lam
+speaker: Lei Xue
 date: 2023-09-06
 categories: learnalco2324
 published: true
 show-date: true
 ---
-TBD
+An introductory talk on positive geometries to give an overview of the subject.

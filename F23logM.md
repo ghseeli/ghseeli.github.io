@@ -5,6 +5,10 @@ title: Log(M) Pipe dreams for quantum Schubert polynomials
 Log(M) Pipe dreams for quantum Schubert polynomials
 ===
 
+Overview
+---
+* [Project description](https://lsa.umich.edu/content/dam/math-assets/logm/fa%2723/logm-quantum-schubert-polys.pdf)
+
 Resources
 ---
 * [Crash course on permutations](https://www.dropbox.com/s/uldwxuif9sitida/LogM-Permutations.pdf?dl=0)
@@ -43,8 +47,8 @@ References (not necessarily easy to read)
   699–709. http://dx.doi.org/10.1090/S0002-9939-04-07614-2
 
 * Weigandt, A. (2021). Bumpless pipe dreams and alternating sign
-  matrices. Journal of Combinatorial Theory, Series A, 182(),
-  105470. http://dx.doi.org/10.1016/j.jcta.2021.105470
+  matrices. Journal of Combinatorial Theory, Series A, 182(), 105470.
+  http://dx.doi.org/10.1016/j.jcta.2021.105470
 
 
 

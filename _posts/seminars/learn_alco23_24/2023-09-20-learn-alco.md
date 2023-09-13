@@ -7,4 +7,5 @@ categories: learnalco2324
 published: true
 show-date: true
 ---
-TBD
+I'll explain the definition of a positive geometry and some motivation
+from the physics of scattering amplitudes.

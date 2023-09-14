@@ -16,6 +16,7 @@ Resources
 * [Allen Knutson's notes on Schubert polynomials](https://pi.math.cornell.edu/~allenk/schubnotes.pdf)
 * [Reduced words and Schubert polynomials](https://www.dropbox.com/s/38zti96g3brrj00/LogM-Reduced%20words%20and%20Schubert%20polynomials.pdf?dl=0)
 * [Goals for implementing pipe dreams in SageMath](https://www.dropbox.com/s/c1bmvg7llfpscn8/LogM-Pipe%20dreams.pdf?dl=0)
+* [Examples of pipe dreams](https://www.dropbox.com/s/4qm9si6mqn112mn/LogM-Pipe%20dreams%20for%20S3%20and%20other%20examples.pdf?dl=0)
 
 References (not necessarily easy to read)
 ---

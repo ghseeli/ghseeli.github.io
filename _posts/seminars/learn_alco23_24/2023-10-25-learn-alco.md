@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TBD
-speaker: Joao Pedro Carvalho
+speaker: 
 date: 2023-10-25
 categories: learnalco2324
 published: true

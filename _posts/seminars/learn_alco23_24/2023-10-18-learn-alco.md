@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TBD
+title: No Seminar 
 speaker: 
 date: 2023-10-18
 categories: learnalco2324

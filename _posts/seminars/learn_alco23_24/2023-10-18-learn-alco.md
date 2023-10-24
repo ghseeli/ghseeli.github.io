@@ -7,4 +7,4 @@ categories: learnalco2324
 published: true
 show-date: true
 ---
-TBD
+No seminar

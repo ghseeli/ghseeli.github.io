@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TBD
-speaker: Dawei Shen
+speaker: Yucong Lei
 date: 2023-11-29
 categories: learnalco2324
 published: true

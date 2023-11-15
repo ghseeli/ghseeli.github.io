@@ -5,6 +5,10 @@ title: Confrences, Workshops, etc.
 Conferences, Seminars, and Workshops Attended or Planning to Attend
 ===
 
+2024
+----
+* [York University Applied Algebra Seminar](https://garsia.math.yorku.ca/seminar/algebra.html), February 5, 2024, York University, Toronto, ON, Canada
+
 2023
 ----
 * [Pisa Seminar on Combinatorics, Lie Theory, and Topology](https://www.dm.unipi.it/eventi/tba-george-h-seelinger-university-of-michigan/), October 12, 2023, Università di Pisa, Italy 

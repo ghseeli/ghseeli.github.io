@@ -38,6 +38,19 @@ References (not necessarily easy to read)
   Nilcoxeter Algebra. Advances in Mathematics, 103(2),
   196–207. http://dx.doi.org/10.1006/aima.1994.1009
 
+* Gao, Y., & Huang, D. (2023). The Canonical Bijection between Pipe
+  Dreams and Bumpless Pipe Dreams. International Mathematics Research
+  Notices, 2023(21),
+  18629–18663. http://dx.doi.org/10.1093/imrn/rnad083
+
+* Huang, D. (2020). Bijective Proofs of Monk's rule for Schubert and
+  Double Schubert Polynomials with Bumpless Pipe Dreams. arXiv:2010.15048.
+
+* Kirillov, A. N., & Maeno, T. (2000). Quantum double Schubert
+  polynomials, quantum Schubert polynomials and VafaIntriligator
+  formula. Discrete Mathematics, 217(1),
+  191–223. http://dx.doi.org/10.1016/S0012-365X(99)00263-0
+
 * Knutson, A., & Miller, E. (2005). Gr\"obner Geometry of Schubert
   Polynomials. Annals of Mathematics, 161(3), 1245–1318.
 

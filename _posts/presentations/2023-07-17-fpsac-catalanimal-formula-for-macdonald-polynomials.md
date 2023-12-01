@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "University of Michigan: Dens, nests, and Catalanimals: a walk through the zoo of shuffle theorems"
+title: "FPSAC: A Catalanimal formula for Macdonald polynomials"
 date: 2023-03-17
 categories: presentation
 use_math: true

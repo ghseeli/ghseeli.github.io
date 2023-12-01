@@ -15,7 +15,7 @@ comments: false
 categories: paper research
 use_math: true
 published: true
-journal: 
+journal: Forum of Mathematics, Pi
 show-date: false
 ---
 Abstract: We generalize the shuffle theorem and its \\((km,kn)\\) version, as conjectured by Haglund et al. and Bergeron et al., and proven by Carlsson and Mellit, and Mellit, respectively. In our version the \\((km,kn)\\) Dyck paths on the combinatorial side are replaced by lattice paths lying under a line segment whose \\(x\\) and \\(y\\) intercepts need not be integers, and the algebraic side is given either by a Schiffmann algebra operator formula or an equivalent explicit raising operator formula.

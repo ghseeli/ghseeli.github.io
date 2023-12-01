@@ -12,7 +12,7 @@ coauthors:
     web: https://annapunying.wixsite.com/punying-math
 arXiv: 2112.07070 [math.CO]
 comments: false
-categories: paper research
+categories: preprint research
 use_math: true
 published: true
 journal: 

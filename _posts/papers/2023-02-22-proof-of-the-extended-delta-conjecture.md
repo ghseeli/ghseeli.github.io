@@ -15,7 +15,7 @@ comments: false
 categories: paper research
 use_math: true
 published: true
-journal: 
+journal: Forum of Mathematics, Pi
 show-date: false
 ---
 Abstract: We prove the Extended Delta Conjecture of Haglund, Remmel, and Wilson, a combinatorial formula for \\(\\Delta_{h_l} \\Delta_{e_k}' e_n\\), where \\(\\Delta_{e_k}'\\) and \\(\Delta_{h_l}\\) are Macdonald eigenoperators and \\(e_n\\) is an elementary symmetric function. We actually prove a stronger identity of infinite series of \\(GL_m\\) characters expressed in terms of LLT series. This is achieved through new results in the theory of the Schiffmann algebra and its action on the algebra of symmetric functions. 

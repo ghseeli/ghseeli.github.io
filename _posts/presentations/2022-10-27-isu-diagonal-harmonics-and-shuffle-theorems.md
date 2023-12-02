@@ -4,6 +4,7 @@ title: "Illinois State University: Diagonal harmonics and shuffle theorems"
 date: 2022-10-27
 categories: presentation
 use_math: true
+pdf-url: https://ghseeli.github.io/grad-school-writings/presentations/illinois-state-diagonal-harmonics-and-shuffle-theorems.pdf
 ---
 Abstract: The algebra of multivariate symmetric polynomials over the rational numbers has been used
 by mathematicians for hundreds of years and contains rich combinatorial structures. In the 1980’s, a

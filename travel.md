@@ -7,6 +7,7 @@ Conferences, Seminars, and Workshops Attended or Planning to Attend
 
 2024
 ----
+* [Collaborate@ICERM](https://icerm.brown.edu/collaborate/), June 17--21, 2024, ICERM, RI
 * [York University Applied Algebra Seminar](https://garsia.math.yorku.ca/seminar/algebra.html), February 5, 2024, York University, Toronto, ON, Canada
 
 2023

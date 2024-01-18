@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A raising operator formula for Macdonald polynomial
+title: A raising operator formula for Macdonald polynomials
 coauthors: 
   - name: Jonah Blasiak
     web: https://www.math.drexel.edu/~jblasiak/

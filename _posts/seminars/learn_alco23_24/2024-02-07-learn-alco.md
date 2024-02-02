@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TBD
-speaker: Calvin Yost
+speaker: Calvin Yost-Wolff
 date: 2024-02-07
 categories: learnalco2324
 published: true

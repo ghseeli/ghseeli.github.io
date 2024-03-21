@@ -48,7 +48,27 @@ use_math: true
     {% endif %}
 {% endfor %}		
 </div>
-<h1>Selected Presentations</h1>	
+<h1>Selected Expository Presentations</h1>	
+<div class="all-posts">
+{% for post in site.posts %}
+    {% if post.categories contains "expository-presentation" %}
+	<div class="post-preview">
+        <b><a href="{{site.url}}{{post.url}}">{{post.title}}</a></b> ({{post.date | date: '%Y'}}) {% if post.pdf-url != null %} &bull; <a href="{{ post.pdf-url }}" target="_blank">PDF</a> {% endif %} {% if post.video-url != null %} &bull; <a href="{{ post.video-url }}" target="_blank">Video</a> {% endif %}
+        {% unless post.no-abstract %}<details>
+          <summary>
+            Read More
+          </summary>
+          <br />
+            {{ post.excerpt | markdownify }}
+            {% if post.image != null %} {% if post.image-address != null %}<a href="{{ post.image-address }}">{% else %}<a href="{{ site.url }}{{ post.url }}">{% endif %}<img src="{{ post.image }}" alt="{{ post.image-alt }}" title="{{ post.image-alt }}" style="max-width:100%;max-height:500px;height:auto;width:auto;"></a>
+            {% endif %}
+     	</details>{% endunless %}
+	</div>
+    {% endif %}
+{% endfor %}		
+</div>
+
+<h1>Selected Research Presentations</h1>	
 <div class="all-posts">
 {% for post in site.posts %}
     {% if post.categories contains "presentation" %}

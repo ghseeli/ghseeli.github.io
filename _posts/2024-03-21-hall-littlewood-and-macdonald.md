@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Virginia Integrable Probability Summer School and Plethystic Substitution"
+title: "Hall-Littlewood and Macdonald polynomials"
 date: 2024-03-21
 categories: expository-presentation news
 use_math: true

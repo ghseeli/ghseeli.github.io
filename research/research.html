@@ -48,10 +48,11 @@ use_math: true
     {% endif %}
 {% endfor %}		
 </div>
-<h1>Selected Expository Presentations</h1>	
+
+<h1>Selected Research Presentations</h1>	
 <div class="all-posts">
 {% for post in site.posts %}
-    {% if post.categories contains "expository-presentation" %}
+    {% if post.categories contains "presentation" %}
 	<div class="post-preview">
         <b><a href="{{site.url}}{{post.url}}">{{post.title}}</a></b> ({{post.date | date: '%Y'}}) {% if post.pdf-url != null %} &bull; <a href="{{ post.pdf-url }}" target="_blank">PDF</a> {% endif %} {% if post.video-url != null %} &bull; <a href="{{ post.video-url }}" target="_blank">Video</a> {% endif %}
         {% unless post.no-abstract %}<details>
@@ -68,10 +69,10 @@ use_math: true
 {% endfor %}		
 </div>
 
-<h1>Selected Research Presentations</h1>	
+<h1>Selected Expository Presentations</h1>	
 <div class="all-posts">
 {% for post in site.posts %}
-    {% if post.categories contains "presentation" %}
+    {% if post.categories contains "expository-presentation" %}
 	<div class="post-preview">
         <b><a href="{{site.url}}{{post.url}}">{{post.title}}</a></b> ({{post.date | date: '%Y'}}) {% if post.pdf-url != null %} &bull; <a href="{{ post.pdf-url }}" target="_blank">PDF</a> {% endif %} {% if post.video-url != null %} &bull; <a href="{{ post.video-url }}" target="_blank">Video</a> {% endif %}
         {% unless post.no-abstract %}<details>

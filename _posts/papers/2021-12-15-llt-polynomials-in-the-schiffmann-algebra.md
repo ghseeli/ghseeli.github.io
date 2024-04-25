@@ -12,10 +12,10 @@ coauthors:
     web: https://annapunying.wixsite.com/punying-math
 arXiv: 2112.07063 [math.CO]
 comments: false
-categories: preprint research
+categories: paper research
 use_math: true
 published: true
-journal: 
+journal: Journal für die reine und angewandte Mathematik (Crelles Journal)
 show-date: false
 ---
-Abstract: We identify certain combinatorially defined rational functions which, under the shuffle to Schiffmann algebra isomorphism, map to LLT polynomials in any of the distinguished copies \\(\Lambda(X^{m,n}) \subset \mathcal{E}\\) of the algebra of symmetric functions embedded in the elliptic Hall algebra  of Burban and Schiffmann. As a corollary, we deduce an explicit raising operator formula for the \\(\nabla\\) operator applied to any LLT polynomial. In particular, we obtain a formula for \\(\nabla^m s_\lambda\\) which serves as a starting point for our proof of the Loehr-Warrington conjecture in a companion paper to this one. 
+Abstract: We identify certain combinatorially defined rational functions which, under the shuffle to Schiffmann algebra isomorphism, map to LLT polynomials in any of the distinguished copies \\(\Lambda(X^{m,n}) \subset \mathcal{E}\\) of the algebra of symmetric functions embedded in the elliptic Hall algebra \\(\mathcal{E}\\) of Burban and Schiffmann. As a corollary, we deduce an explicit raising operator formula for the \\(\nabla\\) operator applied to any LLT polynomial. In particular, we obtain a formula for \\(\nabla^m s_\lambda\\) which serves as a starting point for our proof of the Loehr-Warrington conjecture in a companion paper to this one. 

@@ -8,6 +8,7 @@ Conferences, Seminars, and Workshops Attended or Planning to Attend
 2024
 ----
 * [Collaborate@ICERM](https://icerm.brown.edu/collaborate/), June 17--21, 2024, ICERM, RI
+* [The Many Combinatorial Legacies of Richard P. Stanley: Immense Birthday Glory of the Epic Catalonian Rascal](https://live-hu-math.pantheonsite.io/event/math-conference-honoring-richard-p-stanley/), June 3--7, 2024, Harvard University, Cambridge, MA
 * [York University Applied Algebra Seminar](https://garsia.math.yorku.ca/seminar/algebra.html), February 5, 2024, York University, Toronto, ON, Canada
 
 2023

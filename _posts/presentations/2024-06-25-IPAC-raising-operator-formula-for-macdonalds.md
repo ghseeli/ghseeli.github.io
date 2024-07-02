@@ -3,6 +3,7 @@ layout: post
 title: "IPAC: A raising operator formula for Macdonald polynomials"
 date: 2024-06-25
 categories: presentation
+use-math: true
 pdf-url: https://www.dropbox.com/scl/fi/r74aqdtaor0wodrmzrelh/IPAC24-Raising-operator-formula-for-Macdonald-polynomials-notes.pdf?rlkey=6moxjtkff0m8up8z3pg8xe2k0&dl=0
 video-url: https://www.youtube.com/watch?v=UapCEP2camE&feature=youtu.be
 ---
@@ -38,7 +39,7 @@ will discuss modified Macdonald polynomials purely in combinatorial
 terms via the Haglund-Haiman-Loehr formula and introduce LLT polynomials
 from a combinatorial perspective. Finally, we will discuss how to
 combine the Haglund-Haiman-Loehr formula with a raising operator formula
-for a the Macdonald \nabla operator applied to LLT polynomials in order
+for a the Macdonald \\(\nabla\\) operator applied to LLT polynomials in order
 to recover the desired raising operator formula for Macdonald
 polynomials. Time permitting, we will also further discuss nice
 properties this raising operator formula exposes and how it also gives a

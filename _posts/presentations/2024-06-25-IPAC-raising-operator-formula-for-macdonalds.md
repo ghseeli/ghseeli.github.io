@@ -2,7 +2,7 @@
 layout: post
 title: "IPAC: A raising operator formula for Macdonald polynomials"
 date: 2024-06-25
-categories: presentnation
+categories: presentation
 pdf-url: https://www.dropbox.com/scl/fi/r74aqdtaor0wodrmzrelh/IPAC24-Raising-operator-formula-for-Macdonald-polynomials-notes.pdf?rlkey=6moxjtkff0m8up8z3pg8xe2k0&dl=0
 video-url: https://www.youtube.com/watch?v=UapCEP2camE&feature=youtu.be
 ---

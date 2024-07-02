@@ -31,7 +31,8 @@ polynomials. However, despite much study over the last 30 years, raising
 operator formulas for modified Macdonald polynomials remained absent. In
 this series of talks, I will discuss an explicit raising operator
 formula for Macdonald polynomials my collaborators and I posted in July
-2023. The talks will start with putting raising operators on a rigorous
+2023.
+The talks will start with putting raising operators on a rigorous
 footing and demonstrate how to work with them via examples. Next, we
 will discuss modified Macdonald polynomials purely in combinatorial
 terms via the Haglund-Haiman-Loehr formula and introduce LLT polynomials

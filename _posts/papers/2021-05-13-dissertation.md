@@ -5,6 +5,7 @@ date: 2021-05-13
 categories: nonpublish research
 use_math: true
 published: true
+pdf-url: https://doi.org/10.18130/f4qr-zd81
 ---
 My dissertation shares a significant overlap with the paper by the same name, but includes some additional results and conjectures.
 Most notably, in Chapter 4, I provide a combinatorial proof of the so-called "k-rectangle rule" to the conjectured formula for closed \\(K\\)-\\(k\\)-Schur functions, using the techniques developed in the previous chapters.

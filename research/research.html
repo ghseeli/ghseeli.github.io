@@ -55,8 +55,9 @@ use_math: true
     {% if post.categories contains "nonpublish" %}
 	<div class="post-preview">
         {% if post.coauthors %}(with {% for coa in post.coauthors %}{% if coa.noweb != true %}<a href="{{coa.web}}">{%endif%}{{coa.name}}{% if coa.noweb != true %}</a>{%endif%}{% unless forloop.last %}, {% endunless %}{% endfor %}){% endif %}
-        <b><a href="{{site.url}}{{post.url}}">{{post.title}}</a></b>. {{post.journal}} ({{post.date | date: '%Y'}}) &bull;
-        {% if post.arXiv %}<a href="https://arxiv.org/abs/{{post.arXiv | split: ' ' | first}}" target="_blank">arXiv:{{post.arXiv}}</a>{% endif %}		
+        <b><a href="{{site.url}}{{post.url}}">{{post.title}}</a></b>. {{post.journal}} ({{post.date | date: '%Y'}}) 
+        {% if post.arXiv %}&bull; <a href="https://arxiv.org/abs/{{post.arXiv | split: ' ' | first}}" target="_blank">arXiv:{{post.arXiv}}</a>{% endif %}		
+        {% if post.pdf-url != null %} &bull; <a href="{{ post.pdf-url }}" target="_blank">PDF</a>{% endif %}
         {% unless post.no-abstract %}<details>
           <summary>
             Read More

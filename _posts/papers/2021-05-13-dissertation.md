@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Dissertation: K-theoretic Catalan Functions
+title: "Dissertation: K-theoretic Catalan Functions"
+date: 2021-05-13
 categories: nonpublish research
 use_math: true
 published: true
-show-date: false
 ---
 My dissertation shares a significant overlap with the paper by the same name, but includes some additional results and conjectures.
 Most notably, in Chapter 4, I provide a combinatorial proof of the so-called "k-rectangle rule" to the conjectured formula for closed \\(K\\)-\\(k\\)-Schur functions, using the techniques developed in the previous chapters.

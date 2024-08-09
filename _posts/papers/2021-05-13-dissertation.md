@@ -12,6 +12,8 @@ Most notably, in Chapter 4, I provide a combinatorial proof of the so-called "k-
 Ikeda, Iwao, and Naito subsequently proved the conjectured formula is true and thus give a different proof of the k-rectangle rule via work of Takigiku.
 In Chapter 5, I provide some conjectures related to Type C \\(k\\)-Schur functions, giving a conjectured combinatorial formula for them in terms of certain kinds of tableaux, reminiscient of the affine type A combinatorics, as well as a conjectured "raising operator" style formula.
 
+You can access my dissertation at the University of Virginia library Libra archive [here](https://libraetd.lib.virginia.edu/public_view/x346d5064).
+
 ## References
 
 - Blasiak, J., Morse, J., & Seelinger, G. H. (2022). K-theoretic

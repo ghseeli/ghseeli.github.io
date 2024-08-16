@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TBD
+title: No Seminar
 speaker:
 date: 2024-11-27
 categories: learnalco2425

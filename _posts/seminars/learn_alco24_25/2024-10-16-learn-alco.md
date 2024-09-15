@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TBD
-speaker:
+speaker: Ying Wang
 date: 2024-10-16
 categories: learnalco2425
 published: true

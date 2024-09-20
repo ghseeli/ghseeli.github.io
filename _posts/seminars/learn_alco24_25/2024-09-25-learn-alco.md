@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TBD
-speaker: Veronica Lang
+speaker: Amanda Schwartz
 date: 2024-09-25
 categories: learnalco2425
 published: true

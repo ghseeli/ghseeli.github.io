@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TBD
-speaker: Sridhar Venkatesh 
+speaker: Ying Wang
 date: 2024-10-23
 categories: learnalco2425
 published: true

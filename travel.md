@@ -7,6 +7,7 @@ Conferences, Seminars, and Workshops Attended or Planning to Attend
 
 2024
 ----
+* [ALGECOM](https://sites.google.com/view/algecom-main/algecom-xxiiii), November 9, 2024, University of Michigan, Ann Arbor, MI
 * [Collaborate@ICERM](https://icerm.brown.edu/collaborate/), June 17--21, 2024, ICERM, Providence, RI
 * [The Many Combinatorial Legacies of Richard P. Stanley: Immense Birthday Glory of the Epic Catalonian Rascal](https://live-hu-math.pantheonsite.io/event/math-conference-honoring-richard-p-stanley/), June 3--7, 2024, Harvard University, Cambridge, MA
 * [Singularities in Ann Arbor](https://sites.google.com/view/singularitiesinaa), May 13--17, 2024, University of Michigan, Ann Arbor, MI

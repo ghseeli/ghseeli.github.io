@@ -5,6 +5,10 @@ title: Confrences, Workshops, etc.
 Conferences, Seminars, and Workshops Attended or Planning to Attend
 ===
 
+2025
+----
+* [Modern perspectives in representation theory](https://sites.google.com/view/mod-perspect-representation/home), May 12--30, 2025, Sydney Mathematical Research Institute, New South Wales, Australia.
+
 2024
 ----
 * [ALGECOM](https://sites.google.com/view/algecom-main/algecom-xxiiii), November 9, 2024, University of Michigan, Ann Arbor, MI

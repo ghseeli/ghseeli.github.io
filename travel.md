@@ -10,6 +10,7 @@ Conferences, Seminars, and Workshops Attended or Planning to Attend
 * [Modern perspectives in representation theory](https://sites.google.com/view/mod-perspect-representation/home), May 12--30, 2025, Sydney Mathematical Research Institute, New South Wales, Australia
 * [University of Illinois Algebra-Geometry-Combinatorics Seminar](https://andyhardt.github.io/AGC/AGCSpring2025.html), February 20, 2025, University of Illinois, Urbana, IL
 * [Michigan State Combinatorics and Graph Theory Seminar](https://users.math.msu.edu/group/combinatorics-graph-theory-seminar/), January 30, 2025, Michigan State University, Lansing, MI
+
 2024
 ----
 * [University of Pennsylvania Probability and Combinatorics Seminar](https://www.math.upenn.edu/events/walk-through-zoo-shuffle-theorems), December 10, 2024, University of Pennsylvania, Philadelphia, PA

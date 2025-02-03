@@ -47,6 +47,7 @@ Organizers: <a href="http://www.math.lsa.umich.edu/~tfylam/">Thomas Lam</a>, <a 
 <h1>Fall 2024 Talks</h1>
 <div class="all-posts">
   {% for post in site.posts reversed %}
+  {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
     {% if post.categories contains "learnalco2425" and year == "2024" %}
     <div class="post-preview">
       <span>{{post.date | date: '%D'}}</span> »

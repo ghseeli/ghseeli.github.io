@@ -4,9 +4,9 @@ title: Learning Seminar in Algebraic Combinatorics
 use_math: true
 ---
 <h1>Learning Seminar in Algebraic Combinatorics @ University of Michigan</h1>
-Topic: Matroids (Fall 2024)<br />
+Topic: Matroids<br />
 
-Meetings: Wednesdays 3pm--4pm in East Hall 4088<br />
+Meetings: Wednesdays 2:30pm--3:30pm in East Hall 4088<br />
 
 Organizers: <a href="http://www.math.lsa.umich.edu/~tfylam/">Thomas Lam</a>, <a href="https://ghseeli.github.io">George H. Seelinger</a>, <a href="https://public.websites.umich.edu/~speyer/">David E Speyer</a>, and <a href="http://www-personal.umich.edu/~leixue/">Lei Xue</a>.<br />
 
@@ -16,6 +16,31 @@ Organizers: <a href="http://www.math.lsa.umich.edu/~tfylam/">Thomas Lam</a>, <a 
 <div class="all-posts">
   {% for post in site.posts reversed %}
   {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+    {% if post.categories contains "learnalco2425" and year == "2025" %}
+    <div class="post-preview">
+      <span>{{post.date | date: '%D'}}</span> »
+      {% if post.speaker != null %}
+      {{post.speaker}}: 
+      {% endif %}
+      {% unless post.no-page %}<a href="{{site.url}}{{post.url}}">{% endunless %}
+      {% if post.title != null %}
+      {{post.title}}
+      {% endif %}
+	{% unless post.no-page %}</a>{% endunless %}
+	{% if post.pdf-url != null %}
+	&bull; (<a href="{{ post.pdf-url }}" target="_blank">Notes</a>)
+	{% endif %}
+      {% unless post.no-abstract %}<details>
+          <summary>
+            Abstract
+          </summary>
+          <br />
+            {{ post.content | markdownify }}
+          </details>
+      {% endunless %}
+    </div>
+    {% endif %}
+
     {% if post.categories contains "learnalco2425" and year == "2024" %}
     <div class="post-preview">
       <span>{{post.date | date: '%D'}}</span> »

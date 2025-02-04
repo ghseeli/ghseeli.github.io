@@ -2,7 +2,7 @@
 layout: post
 title: "Garsiafest Lightning Talk: Raising Operators in Schubert Calculus"
 date: 2019-06-24
-categories: presentation news
+categories: presentation 
 image: __SITE_URL__/img/K-k-schur.png
 image-alt: Snapshot from presentation
 use_math: true

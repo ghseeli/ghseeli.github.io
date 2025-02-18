@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TBD
-speaker: Sridhar Venkatesh
+speaker: Dawei Shen
 date: 2025-02-26
 categories: learnalco2425
 published: true

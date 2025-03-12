@@ -8,6 +8,7 @@ Conferences, Seminars, and Workshops Attended or Planning to Attend
 2025
 ----
 * [ICERM Semester on Categorification and Computation in Algebraic Combinatorics](https://icerm.brown.edu/program/semester_program/sp-f25), September 3--December 5, 2025, ICERM, Providence, RI
+* [qt-Combinatorics in Algebra, Geometry and Topology in Cortona](https://qtcombinatoricsincortona.ulb.be/), June 9--13, 2025, Palazzone di Cortona, Cortona, Italy
 * [Modern perspectives in representation theory](https://sites.google.com/view/mod-perspect-representation/home), May 12--30, 2025, Sydney Mathematical Research Institute, New South Wales, Australia
 * [University of Illinois Algebra-Geometry-Combinatorics Seminar](https://andyhardt.github.io/AGC/AGCSpring2025.html), February 20, 2025, University of Illinois, Urbana, IL
 * [Michigan State Combinatorics and Graph Theory Seminar](https://users.math.msu.edu/group/combinatorics-graph-theory-seminar/), January 30, 2025, Michigan State University, Lansing, MI

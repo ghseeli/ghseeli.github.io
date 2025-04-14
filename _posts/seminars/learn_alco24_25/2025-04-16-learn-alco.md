@@ -8,7 +8,7 @@ published: true
 show-date: true
 ---
 It is known when we call a poset \\(P\\), a \\(\mathcal{P}\\)-chain permutational poset, given a subset of permutations
-\\(\mathcal{P}\\) of the symmetric group \(S_n\).
+\\(\mathcal{P}\\) of the symmetric group \\(S_n\\).
 In this work, we use the same idea to study subsets of words of length \\(n\\), that are not necessarily permutations, for example: especially when they are certain classes of restricted
 growth functions induced by set partitions in standard form over \\([n] = \{1, 2, \ldots, n\}\\). Varying \\(n\\) only, and
 also varying \\(n\\) and \\(k\\) (the number of blocks of the set partitions) simultaneously, we can show that those

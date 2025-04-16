@@ -6,6 +6,7 @@ date: 2025-04-09
 categories: learnalco2425
 published: true
 show-date: true
+pdf-url: https://www.dropbox.com/scl/fi/9l0earfvj0v959s683zpy/20250409-Bill-Fulton_-A-brief-history-of-intersection-theory-2.pdf?rlkey=ruqfk1gz19uy8900r6dnwnz49&st=gb1nt8tg&dl=0
 ---
 Early remarkable discoveries in intersection theory go back to
 1849, when algebraic geometry as we know it was just beginning.  

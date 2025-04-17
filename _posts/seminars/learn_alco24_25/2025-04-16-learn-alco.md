@@ -6,6 +6,7 @@ date: 2025-04-16
 categories: learnalco2425
 published: true
 show-date: true
+pdf-url: https://www.dropbox.com/scl/fi/yih3vvo9pg879661aaarf/20250417-Amrita-Acharyya-Projective-systems-of-posets-from-set-partitions.pdf?rlkey=02nqj4ixkss8ehp15yjmw35li&st=gcdyg1cl&dl=0
 ---
 It is known when we call a poset \\(P\\), a \\(\mathcal{P}\\)-chain permutational poset, given a subset of permutations
 \\(\mathcal{P}\\) of the symmetric group \\(S_n\\).

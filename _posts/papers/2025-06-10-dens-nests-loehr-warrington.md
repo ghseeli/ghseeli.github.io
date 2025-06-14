@@ -12,10 +12,10 @@ coauthors:
     web: https://annapunying.wixsite.com/punying-math
 arXiv: 2112.07070 [math.CO]
 comments: false
-categories: preprint research
+categories: paper research
 use_math: true
 published: true
-journal: 
+journal: Journal of the AMS
 show-date: false
 ---
 Abstract: In a companion paper, we introduced raising operator series called
@@ -44,3 +44,5 @@ paths under any line.  Both this and the \\((m,n)\\) Loehr-Warrington
 formula generalize the \\((km,kn)\\) shuffle theorem proven by Carlsson
 and Mellit (for \\(n=1\\)) and Mellit.  Our formula here unifies these two
 generalizations.
+
+[Article webpage](https://doi.org/10.1090/jams/1057)

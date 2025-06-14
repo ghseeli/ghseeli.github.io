@@ -5,7 +5,7 @@ coauthors:
   - name: Stephen Doty
     web: http://doty.math.luc.edu/
   - name: Aaron Lauve
-    web: http://webpages.math.luc.edu/~lauve/index.php
+    web: https://www.luc.edu/math/profiles/lauveaaron.shtml
 arXiv: 1606.08900 [math.RT]
 comments: false
 categories: paper research

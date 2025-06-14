@@ -10,7 +10,7 @@ coauthors:
     web: https://morsej123.github.io/
   - name: Anna Pun
     web: https://annapunying.wixsite.com/punying-math
-categories: paper research
+categories: proceeding research
 use_math: true
 published: true
 journal: Séminaire Lotharingien de Combinatoire

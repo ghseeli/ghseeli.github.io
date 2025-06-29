@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Catalanimals, shuffle theorems, and Macdonald polynomials"
+title: "SMRI: Catalanimals, shuffle theorems, and Macdonald polynomials"
 date: 2025-05-22
 categories: presentation
 use-math: true

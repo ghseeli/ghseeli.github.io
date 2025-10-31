@@ -11,5 +11,5 @@ We examine some differences between using decision tree techniques on real world
 In the second half of the talk, we use a Google Colab notebook and examine how feature engineering combines with decision trees to gain some mathematical insight.
 
 Slides: {{ page.pdf-url }}
-Colab notebook (blank): [https://colab.research.google.com/drive/1QELddU9JuIV8XYkqtomQK96bcd-l0Hyt?usp=sharing](here)
-Colab notebook (completed): [https://colab.research.google.com/drive/1570QadLjv0ZlNkj7vlLrlJlYwpYnllJK?usp=sharing](here)
+Colab notebook (blank): (https://colab.research.google.com/drive/1QELddU9JuIV8XYkqtomQK96bcd-l0Hyt?usp=sharing)[here]
+Colab notebook (completed): (https://colab.research.google.com/drive/1570QadLjv0ZlNkj7vlLrlJlYwpYnllJK?usp=sharing)[here]

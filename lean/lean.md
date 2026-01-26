@@ -3,6 +3,8 @@ layout: default
 title: Lean Resources
 use_math: true
 ---
+
+
 # Lean Resources
 
 
@@ -17,20 +19,20 @@ Note, you can call `lake exe cache get` in your VSCode terminal in your project 
 ## Learning resources
 
 -   In my opinion, the [manual](https://lean-lang.org/doc/reference/latest/) is actually the best reference for learning about any specific concept. The second best place is to look at the source code file for a given type or theorem.
--   People recommend [Theorem proving in Lean](https://lean-lang.org/theorem_proving_in_lean4/), but I found it a bit difficult to follow as a beginner. However, it may be helpful to think about [Propositions as Types](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence), which is the foundation for how proving theorems works in Lean.
+-   People recommend [Mathematics in Lean](https://leanprover-community.github.io/mathematics_in_lean/) or [Theorem proving in Lean](https://lean-lang.org/theorem_proving_in_lean4/), but I found them a bit difficult to follow as a beginner. However, it may be helpful to think about [Propositions as Types](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence), which is the foundation for how proving theorems works in Lean.
 -   I find [Functional programming in Lean](https://lean-lang.org/functional_programming_in_lean/) incredibly helpful for learning the language features.
 -   The [Natural Number Game](https://adam.math.hhu.de/) and related games are good for getting hands-on experience with the basics of how to do theorem proving.
 -   [Mathlib4's list of learning resources](https://leanprover-community.github.io/learn.html)
 -   After the natural numbers game, it might be helpful to try to prove some basic theorems (without just using Mathlib’s version of the theorem). Here is an example.
-    -   Show $\sum_{i=1}^n i = \frac{n(n-1)}{2}$. Note, this includes some language specific challenges, such as using the `induction` tactic and dealing with `Nat` versus `Rat` types. \_
+    -   Show \\(\sum_{i=1}^n i = \frac{n(n+1)}{2}\\). Note, this includes some language specific challenges, such as using the `induction` tactic and dealing with `Nat` versus `Rat` types.
 
 
 ## Getting help
 
 -   [Zulip chat](https://leanprover.zulipchat.com/)
--   Formalize the statement you want and search it in [Moogle](https://www.moogle.ai/) or [Leansearch](https://leansearch.net/).
--   Lean4 [tactic reference](https://lean-lang.org/doc/reference/latest/Tactic-Proofs/Tactic-Reference/#obtain)
--   At the time of this writing, LLMs are not great at Lean4 because they have absorbed a lot of Lean3 and struggle to separate the difference. Thus, in my experience, they often hallucinate a bunch of non-existent theorems.
+-   Formalize the statement you want and search it [Leansearch](https://leansearch.net/).
+-   Lean4 [tactic reference](https://lean-lang.org/doc/reference/latest/Tactic-Proofs/Tactic-Reference/#obtain); I mention some specific tactics below.
+-   At the time of this writing, LLMs are not great at Lean4 because they have absorbed a lot of Lean3 and struggle to separate the difference. Thus, in my experience, they often hallucinate a bunch of non-existent theorems or bad syntax.
 
 
 ## Useful things to know
@@ -57,6 +59,11 @@ If you need different behavior, you should work with `Int` or `Rat`.
 
 ### Casting
 
+Sometimes, you need to explicitly tell Lean how to think of a given object.
+For example, `Finset.univ` is the universal finite set in `Finset T` for finite type `T`.
+However, simply saying `Finset.univ` by itself is not well-defined unless it is clear from context.
+Here is how you can explicitly cast it.
+
     #check (Finset.univ : Finset Fin 5)
 
 
@@ -69,7 +76,7 @@ However, an extant theorem can have its explicit or implicit arguments specializ
 
 A specific example is `Group.left_mul_inj`
 
-    have h := Group.left_mul_inj (a := ) (b := ) (c := )
+    have h := Group.left_mul_inj (a := x) (b := y) (c := z)
 
 
 ### Intro, unfold, and dsimp
@@ -80,7 +87,9 @@ Similarly, of the for `\forall x, P x`, then `intro x`
 
 ### Obtain and specialize tactics
 
-If you have an existence statement, it can help to obtain a specific element and the proof that it satisfies the proposition. 
+If you have an existence statement, it may be necessary to obtain a specific element and the proof that it satisfies the proposition with the `obtain` tactic.  
+
+Conversely, if you have a forall statement, it may be necessary to specialize it to a specific element with the `specialize` statement.
 
 
 ### Pattern matching
@@ -96,16 +105,16 @@ Pattern matching is a functional programming technique for extracting informatio
 
 ### Omega and linarith tactics
 
-The omega and linarith tactics allow you to solve inequalities in natural numbers and 
+The `omega` and `linarith` tactics allow you to solve inequalities in natural numbers and in fields.
 
 
 ### Congr tactic
 
-If you have an expression like `f(x) = f(y)`, the congr tactic will change the goal to `x = y`.
-This is a pretty generic tactic and congr is also used in naming conventions for many theorems that justify steps like this.
+If you have an expression like `f(x) = f(y)`, the `congr` tactic will change the goal to `x = y`.
+This is a pretty generic tactic and `congr` is also used in naming conventions for many theorems that justify steps like this.
 
 
 ### Conv tactic
 
-Conv can feel a little clunky, but it allows you to navigate within the goal state to specify exactly where you might want to apply a rewrite or theorem application
+The `conv` tactic can feel a little clunky, but it allows you to navigate within the goal state to specify exactly where you might want to apply a rewrite or theorem application
 

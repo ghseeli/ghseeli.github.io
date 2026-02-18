@@ -6,5 +6,6 @@ date: 2026-02-18
 categories: learnalco2526
 published: true
 show-date: true
+pdf-url: https://www.dropbox.com/scl/fi/3ox8u7w26hnki8mnvaws4/20260218-Yucong-Lei_-How-to-describe-general-torsion-classes.pdf?rlkey=fgm2y5tgtsf8ydw6ioxygymy5&st=t9phpk5b&dl=0
 ---
 Last time we saw that we can describe torsion classes of quiver representations of Type \\(A_n\\) by bracket vectors. In this talk, I will give some more general approaches to describing torsion classes, First I will illustrate them through the familiar Type \\(A_n\\) example. I will also demonstrate how to use them to describe the torsion classes of the representations of the Kronecker quiver. In the second part of the talk, I will use these new descriptions to construct a dual notion of torsion classes, the torsion free classes, and prove that torsion classes form a complete lattice. 

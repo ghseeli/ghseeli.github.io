@@ -118,3 +118,5 @@ This is a pretty generic tactic and `congr` is also used in naming conventions f
 
 The `conv` tactic can feel a little clunky, but it allows you to navigate within the goal state to specify exactly where you might want to apply a rewrite or theorem application
 
+### The difference between `class` and `structure`
+This [tip from Formalizing Mathematics](https://www.ma.imperial.ac.uk/~buzzard/xena/formalising-mathematics-2022/Part_B/classes.html) explains when you might prefer a `class` versus a `structure` when implementing an object.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quiver Mutation and Oriented Exchange Graphs
-speaker: João Carvalho
+speaker: João Pedro Carvalho
 date: 2026-04-15
 categories: learnalco2526
 published: true

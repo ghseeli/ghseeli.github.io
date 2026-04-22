@@ -5,6 +5,11 @@ title: Confrences, Workshops, etc.
 Conferences, Seminars, and Workshops Attended or Planning to Attend
 ===
 
+2026
+----
+* [Center for Mathematics at the University of Notre Dame Thematic Program: Algebraic Combinatorics and Applications], June 29 -- July 10, 2026, University of Notre Dame, South Bend, IN
+* [University of California Davis Algebra and Discrete Mathematics Seminar](https://www.math.ucdavis.edu/research/seminars?talk_id=7616), April 20, 2026, UC Davis, Davis, CA
+
 2025
 ----
 * [ICERM Semester on Categorification and Computation in Algebraic Combinatorics](https://icerm.brown.edu/program/semester_program/sp-f25), September 3--December 5, 2025, ICERM, Providence, RI

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flagged LLT polynomials and nonsymmetric Macdonald polynomials"
-date: 2025-05-22
+date: 2026-04-20
 categories: presentation
 use-math: true
 pdf-url: https://ghseeli.github.io/grad-school-writings/presentations/davis-flagged-llt-polynomials-and-nonsymmetric-macdonalds.pdf

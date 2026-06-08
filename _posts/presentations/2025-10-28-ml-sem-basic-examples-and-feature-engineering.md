@@ -10,7 +10,7 @@ In this talk, I explain the basics of decision tree learning, random forests, an
 We examine some differences between using decision tree techniques on real world data versus data arising from theoretical mathematics.
 In the second half of the talk, we use a Google Colab notebook and examine how feature engineering combines with decision trees to gain some mathematical insight.
 
-Slides: {{ page.pdf-url }}
+Slides: [here]({{ page.pdf-url }})
 
 Colab notebook (blank): [here](https://colab.research.google.com/drive/1QELddU9JuIV8XYkqtomQK96bcd-l0Hyt?usp=sharing)
 

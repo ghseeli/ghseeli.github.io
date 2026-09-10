@@ -7,6 +7,7 @@ Conferences, Seminars, and Workshops Attended or Planning to Attend
 
 2026
 ----
+* [AMS Fall Eastern Sectional Meeting](https://www.ams.org/meetings/sectional/2332_program.html), October 3 -- 4, 2026, George Washington University, Washington, DC
 * [Center for Mathematics at the University of Notre Dame Thematic Program: Algebraic Combinatorics and Applications](https://sites.nd.edu/cmnd2026-thematic-program/2025/12/18/cmnd-2026-thematic-program-algebraic-combinatorics-and-applications/), June 29 -- July 10, 2026, University of Notre Dame, South Bend, IN
 * [University of California Davis Algebra and Discrete Mathematics Seminar](https://www.math.ucdavis.edu/research/seminars?talk_id=7616), April 20, 2026, UC Davis, Davis, CA
 

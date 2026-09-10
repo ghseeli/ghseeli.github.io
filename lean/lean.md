@@ -25,6 +25,7 @@ Note, you can call `lake exe cache get` in your VSCode terminal in your project 
 -   [Mathlib4's list of learning resources](https://leanprover-community.github.io/learn.html)
 -   After the natural numbers game, it might be helpful to try to prove some basic theorems (without just using Mathlib’s version of the theorem). Here is an example.
     -   Show \\(\sum_{i=1}^n i = \frac{n(n+1)}{2}\\). Note, this includes some language specific challenges, such as using the `induction` tactic and dealing with `Nat` versus `Rat` types.
+- For some historical background, [The Proof in the Code](https://www.quantabooks.org/books/the-proof-in-the-code/).
 
 
 ## Getting help

@@ -33,7 +33,7 @@ Note, you can call `lake exe cache get` in your VSCode terminal in your project 
 -   [Zulip chat](https://leanprover.zulipchat.com/)
 -   Formalize the statement you want and search it [Leansearch](https://leansearch.net/).
 -   Lean4 [tactic reference](https://lean-lang.org/doc/reference/latest/Tactic-Proofs/Tactic-Reference/#obtain); I mention some specific tactics below.
--   At the time of this writing, LLMs are not great at Lean4 because they have absorbed a lot of Lean3 and struggle to separate the difference. Thus, in my experience, they often hallucinate a bunch of non-existent theorems or bad syntax.
+-   As of summer 2026, frontier LLM models have become exceedingly good at Lean formalization.
 
 
 ## Useful things to know
